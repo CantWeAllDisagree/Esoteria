@@ -86,6 +86,10 @@ file = "config/tempad.json"
 hash = "98f9934353a4b1c0d9ed8863f872428869e29738cfb2da1077d10aa06eec2f69"
 
 [[files]]
+file = "config/travelersbackpack.json5"
+hash = "5e7171a4dd2907f4d36e56c0118fd48ddc6d60e89438b638cf8e19d111087f50"
+
+[[files]]
 file = "gitignore.txt"
 hash = "98bfc6517d00b8bf84bfe8d2f7468c11a792cdf12814befb041bb3c137f64c53"
 
@@ -1300,6 +1304,11 @@ hash = "722a61460c6fc802c2c25fb26deb025517f2a9ae6aa53cf43b1afec2363981ce"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
+metafile = true
+
+[[files]]
 file = "mods/labels.pw.toml"
 hash = "bc2ba9bbe9f4b0e9291e5eebe00df36343f82c14bc188167fa21946d4e7cb1df"
 metafile = true
@@ -1986,6 +1995,11 @@ hash = "a61d88ad37ab04d819a9e74684e1e8407a0ae4aeffa9921e03e573e81a3622d1"
 [[files]]
 file = "mods/refinedstorage2.pw.toml"
 hash = "ef050bd227ed297d03196c3c2d2c2c18a6e59a9e643c15fd0e553a13689f617b"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "c059dce6b0674ca1e19499fcff37b7c0fe90bb563f46f92834632ffd7d5780d3"
 metafile = true
 
 [[files]]
