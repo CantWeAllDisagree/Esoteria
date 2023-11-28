@@ -1,0 +1,13 @@
+name = "Totally Lit"
+filename = "totally_lit-0.11.2+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a9b65e50f59cf039bae950ee04fac3c06ed955d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4318585
+project-id = 560752

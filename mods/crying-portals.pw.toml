@@ -1,0 +1,13 @@
+name = "Crying Portals"
+filename = "cryingportals-1.19.2-2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3RkVNglH/versions/lgSHDKss/cryingportals-1.19.2-2.4.jar"
+hash-format = "sha1"
+hash = "a979068619c34285cc2ab52233a4cce014f82396"
+
+[update]
+[update.modrinth]
+mod-id = "3RkVNglH"
+version = "lgSHDKss"

@@ -1,0 +1,13 @@
+name = "EnderTanks"
+filename = "endertanks-fabric-1.19.2-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zZwEA08D/versions/xExAGWc0/endertanks-fabric-1.19.2-1.0.5.jar"
+hash-format = "sha1"
+hash = "654eda3e6240f3261c80a29b7484b1309e2163bd"
+
+[update]
+[update.modrinth]
+mod-id = "zZwEA08D"
+version = "xExAGWc0"

@@ -1,0 +1,13 @@
+name = "Mage Flame"
+filename = "MageFlame-fabric-mc1.19.2-v1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zhPomGxT/versions/lzije2ez/MageFlame-fabric-mc1.19.2-v1.3.0.jar"
+hash-format = "sha1"
+hash = "362e72e07ea6f59ac63475c00db4980b48d577dd"
+
+[update]
+[update.modrinth]
+mod-id = "zhPomGxT"
+version = "lzije2ez"

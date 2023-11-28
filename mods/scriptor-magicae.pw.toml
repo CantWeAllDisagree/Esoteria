@@ -1,0 +1,13 @@
+name = "Scriptor Magicae"
+filename = "scriptor-0.4.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JyJgaOrk/versions/6zLNMr5j/scriptor-0.4.5.jar"
+hash-format = "sha1"
+hash = "66c7b845fddc4602f6ef151027888c372d86933b"
+
+[update]
+[update.modrinth]
+mod-id = "JyJgaOrk"
+version = "6zLNMr5j"

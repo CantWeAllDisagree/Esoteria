@@ -1,0 +1,13 @@
+name = "Gear Core"
+filename = "gear_core-0.3.3+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/t7eXC8r7/versions/P4ypUmuv/gear_core-0.3.3%2B1.19.jar"
+hash-format = "sha1"
+hash = "c468998db5094f3942c3acaccfe8c713fce9db90"
+
+[update]
+[update.modrinth]
+mod-id = "t7eXC8r7"
+version = "P4ypUmuv"

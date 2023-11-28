@@ -1,0 +1,13 @@
+name = "Great Big World"
+filename = "great-big-world-1.19.2-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GqIsk8Qs/versions/WJYCPutD/great-big-world-1.19.2-1.1.4.jar"
+hash-format = "sha1"
+hash = "acd9b3fbc5a0bfdfe76e694c93334e7d19f11e4a"
+
+[update]
+[update.modrinth]
+mod-id = "GqIsk8Qs"
+version = "WJYCPutD"

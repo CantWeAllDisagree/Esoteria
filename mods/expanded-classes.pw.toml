@@ -1,0 +1,13 @@
+name = "Expanded Classes - An Origins Addon"
+filename = "Expanded-Classes-1.19-4.0.2-FABRIC.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4MFkGPj1/versions/rcPs2TXe/Expanded-Classes-1.19-4.0.2-FABRIC.jar"
+hash-format = "sha1"
+hash = "f4ef55c02129db401b867a8c181df6b8352d9924"
+
+[update]
+[update.modrinth]
+mod-id = "4MFkGPj1"
+version = "rcPs2TXe"

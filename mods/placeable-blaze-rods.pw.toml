@@ -1,0 +1,13 @@
+name = "Placeable Blaze Rods"
+filename = "placeableblazerods-1.19.2-3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8483aa0a25fc8fa5848fcef3c3ccc2093f528f71"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4852083
+project-id = 390121

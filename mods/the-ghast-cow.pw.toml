@@ -1,0 +1,13 @@
+name = "The Ghast Cow"
+filename = "GhastCow-fabric-1.19.2-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e558c54c0ae2e1a3db11e111780b33c87ec67f85"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4240678
+project-id = 483348

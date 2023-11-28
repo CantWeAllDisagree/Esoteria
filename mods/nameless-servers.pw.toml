@@ -1,0 +1,13 @@
+name = "Nameless Servers"
+filename = "nameless_servers-1.0.0+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M67eL1Jz/versions/y8P793VA/nameless_servers-1.0.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "5fcdbb483f0377de7e29506e383329eda53fb783"
+
+[update]
+[update.modrinth]
+mod-id = "M67eL1Jz"
+version = "y8P793VA"

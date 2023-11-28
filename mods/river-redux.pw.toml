@@ -1,0 +1,13 @@
+name = "River Redux"
+filename = "riverredux-0.3.0+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dhhdnacC/versions/Qmkh2x13/riverredux-0.3.0%2Bfabric.jar"
+hash-format = "sha1"
+hash = "bc84385256c2f91171c510e9c866b2754217909c"
+
+[update]
+[update.modrinth]
+mod-id = "dhhdnacC"
+version = "Qmkh2x13"

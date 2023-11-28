@@ -1,0 +1,13 @@
+name = "Fair wage"
+filename = "fair-wage-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6YOmm63e/versions/Gnw9ZZBZ/fair-wage-0.0.1.jar"
+hash-format = "sha1"
+hash = "96377311f9d2ec0e051ce3bb11f1c60d0e48951a"
+
+[update]
+[update.modrinth]
+mod-id = "6YOmm63e"
+version = "Gnw9ZZBZ"

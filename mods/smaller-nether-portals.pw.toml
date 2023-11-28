@@ -1,0 +1,13 @@
+name = "Smaller Nether Portals"
+filename = "smallernetherportals-1.19.2-3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e86305142bfc8d6aa46dbfc2e109c49d1a9eb9b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4851670
+project-id = 345614

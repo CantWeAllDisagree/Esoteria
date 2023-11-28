@@ -1,0 +1,13 @@
+name = "Orb of Origin Rework"
+filename = "originsorbrework-1.19-2.0.0-FABRIC.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/esyQNDav/versions/k2eXbg5j/originsorbrework-1.19-2.0.0-FABRIC.jar"
+hash-format = "sha1"
+hash = "bd689c396079d14a0d6620873d963c8ca8f93ea6"
+
+[update]
+[update.modrinth]
+mod-id = "esyQNDav"
+version = "k2eXbg5j"

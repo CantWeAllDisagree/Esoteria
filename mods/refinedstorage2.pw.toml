@@ -1,0 +1,11 @@
+name = "Refined Storage 2"
+filename = "refinedstorage2-platform-fabric-2.0.0-milestone.2.6.jar"
+side = "both"
+
+[download]
+url = "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.2.6/refinedstorage2-platform-fabric-2.0.0-milestone.2.6.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha1"
+hash = "231b11b60b26a45d23ce37614986758240558075"

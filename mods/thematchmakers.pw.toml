@@ -1,0 +1,13 @@
+name = "The Matchmakers"
+filename = "thematchmakers-1.0.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A319abdH/versions/5G2l3scR/thematchmakers-1.0.2.1.jar"
+hash-format = "sha1"
+hash = "be58af154576f42771c80229e83f5544ac837ecb"
+
+[update]
+[update.modrinth]
+mod-id = "A319abdH"
+version = "5G2l3scR"

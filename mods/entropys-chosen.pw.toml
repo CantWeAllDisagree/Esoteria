@@ -1,0 +1,13 @@
+name = "Entropy's Chosen"
+filename = "entropys-chosen-V2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hX5NTsZ7/versions/oJyjM6d5/entropys-chosen-V2.6.jar"
+hash-format = "sha1"
+hash = "f083ab7481a5e49c1eaece68adaad4e8eb34db18"
+
+[update]
+[update.modrinth]
+mod-id = "hX5NTsZ7"
+version = "oJyjM6d5"

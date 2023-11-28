@@ -1,0 +1,13 @@
+name = "Orpheus"
+filename = "orpheus-0.5.9-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4626ba429c17ee195a3a5a8695bf5ca369791af7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4886378
+project-id = 936659

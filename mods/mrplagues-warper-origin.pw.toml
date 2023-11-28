@@ -1,0 +1,13 @@
+name = "MrPlague's Warper Origin"
+filename = "mrplague-warper-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f1f3c17bd9707a482732544892a5dba0b83ecccb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4369447
+project-id = 601925

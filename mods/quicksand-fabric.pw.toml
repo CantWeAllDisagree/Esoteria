@@ -1,0 +1,13 @@
+name = "Quicksand (Fabric)"
+filename = "quicksand-1.2.1+fabric-mc1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88d6b2d82f06514d3bf8afbe47856cf6d3f5a3bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3849980
+project-id = 425940

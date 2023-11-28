@@ -1,0 +1,13 @@
+name = "Distorted Discs"
+filename = "DistortedDiscs-1.19.2-0.6_fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "afa56a268d25ae489ccecf16e4fe9f2cfee64df0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4802664
+project-id = 620228

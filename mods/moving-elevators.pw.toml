@@ -1,0 +1,13 @@
+name = "Moving Elevators"
+filename = "movingelevators-1.4.5-fabric-mc1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9KZOe6HD/versions/CHMWC7dr/movingelevators-1.4.5-fabric-mc1.19.2.jar"
+hash-format = "sha1"
+hash = "b887ae3cede366edab3293f5ad22d9ed6d386299"
+
+[update]
+[update.modrinth]
+mod-id = "9KZOe6HD"
+version = "CHMWC7dr"

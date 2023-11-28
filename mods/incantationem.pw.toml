@@ -1,0 +1,13 @@
+name = "Incantationem"
+filename = "incantationem-1.1.6+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZmRxbKUp/versions/kYnkWCjJ/incantationem-1.1.6%2B1.19.jar"
+hash-format = "sha1"
+hash = "9113f1a8991e862532b1976fbc5273bf7249bc8a"
+
+[update]
+[update.modrinth]
+mod-id = "ZmRxbKUp"
+version = "kYnkWCjJ"

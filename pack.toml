@@ -1,0 +1,17 @@
+name = "Esoteria"
+author = "CantWeAllDisagree"
+version = "0.00.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "092a627459e418297831e9cea12cb99113330328d100188ce233b67333a2cc8b"
+
+[versions]
+fabric = "0.14.25"
+minecraft = "1.19.2"
+
+[options]
+acceptable-game-versions = ["1.19.1"]
+datapack-folder = "config/paxi/datapacks"
