@@ -90,6 +90,11 @@ file = "gitignore.txt"
 hash = "98bfc6517d00b8bf84bfe8d2f7468c11a792cdf12814befb041bb3c137f64c53"
 
 [[files]]
+file = "mods/-sculk-horn.pw.toml"
+hash = "b424bc24cc37710d6bf7dd96638bb2d946135de9946254fd6198ba0a54e67db1"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
@@ -162,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/altorigingui.pw.toml"
 hash = "984a09bc0fae7c6d2407fba7273e6b27c2fbf66040161e842e381ac314026d08"
+metafile = true
+
+[[files]]
+file = "mods/amarite.pw.toml"
+hash = "d46001010b39dab714fa9de6e97e1e1074dababf681b63d638859c3dc4fa7c91"
 metafile = true
 
 [[files]]
@@ -1920,6 +1930,11 @@ hash = "ceafb4a6175ac7c8dc90e4b0903450811fe26fc9cc23d8adcdd8cd7ce0cad9eb"
 metafile = true
 
 [[files]]
+file = "mods/randomium-ore.pw.toml"
+hash = "d4c394ec87f2628e72fa3b55d2e54fb0006719a1c42844f2814080674c650fb6"
+metafile = true
+
+[[files]]
 file = "mods/rats-mischief.pw.toml"
 hash = "363683e6e075d43c60e28394ed2314177b6c18707757bb3858c8869e4bec14e2"
 metafile = true
@@ -2106,6 +2121,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/solid_mobs.pw.toml"
+hash = "fd1b0e830cce072970f8d561cc92f692ac22c38b7d22e92350fb61b9d939ec46"
 metafile = true
 
 [[files]]
@@ -2304,6 +2324,11 @@ hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
 metafile = true
 
 [[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "8bf3894aa1f23eb474d4c4642ee2ced7b6ccb79d34189ffb8d5ddc031316e546"
+metafile = true
+
+[[files]]
 file = "mods/toggle-item-frames.pw.toml"
 hash = "99c3119197a2cf6613da293a1a28ab6fc2d24ccb85efaffd5a8039f8a888571e"
 metafile = true
@@ -2451,6 +2476,16 @@ metafile = true
 [[files]]
 file = "mods/walkie-talkie.pw.toml"
 hash = "a55d2e620f362673051018738ee9a05c3d863260e6e7c1eae0edd052bc501192"
+metafile = true
+
+[[files]]
+file = "mods/wall-jump-txf.pw.toml"
+hash = "52caba24c30b858064237621d7d488b67ced6a5f31364f26fc1f7f20abb5bddb"
+metafile = true
+
+[[files]]
+file = "mods/whats-that-slot.pw.toml"
+hash = "2d341ee5e3436ded38ca36262832bf44f4fb4df4ecb4ca9c3b3e21f24521be40"
 metafile = true
 
 [[files]]
