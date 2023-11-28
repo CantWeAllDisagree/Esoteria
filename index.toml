@@ -64,11 +64,6 @@ hash = "a286466952265156b08bc765b98b77225178fab50ef424608f949c212dcf24e5"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/create-simple-storage.pw.toml"
-hash = "345e984c0e019355bb867d74887e64bd5e06d36d59fc1dcead2a2c2e281931fc"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/incendium-optional-resourcepack.pw.toml"
 hash = "ef7eeaf34f1110b22e75a1bcd43ccb9c23bc1ffadf5952b222912d900a535bf8"
 metafile = true
