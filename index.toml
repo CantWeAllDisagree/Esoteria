@@ -722,11 +722,6 @@ hash = "93e56787ea6b7ff794f84d4238fa194705dc65b1f73d204bddb3e2948d24c366"
 metafile = true
 
 [[files]]
-file = "mods/contenttweaker.pw.toml"
-hash = "d95307d73414039d0a78b78ae3e1035964c70d365485b1a76dfc5a72ce0dcbd5"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
