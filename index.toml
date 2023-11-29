@@ -1491,6 +1491,11 @@ hash = "722a61460c6fc802c2c25fb26deb025517f2a9ae6aa53cf43b1afec2363981ce"
 metafile = true
 
 [[files]]
+file = "mods/kurisus-passable-leaves.pw.toml"
+hash = "efddece4bd8b600a9147d5cc253553daee9a5f764b17e0ac865e65cc286f591b"
+metafile = true
+
+[[files]]
 file = "mods/labels.pw.toml"
 hash = "bc2ba9bbe9f4b0e9291e5eebe00df36343f82c14bc188167fa21946d4e7cb1df"
 metafile = true
