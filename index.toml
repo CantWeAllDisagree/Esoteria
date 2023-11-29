@@ -2300,6 +2300,11 @@ hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
+file = "mods/solid_mobs.pw.toml"
+hash = "fd1b0e830cce072970f8d561cc92f692ac22c38b7d22e92350fb61b9d939ec46"
+metafile = true
+
+[[files]]
 file = "mods/soul-fired.pw.toml"
 hash = "a1a855fe4cc345b993262959a2b3e580beb49f4ba5b50048096bb49d70309ec1"
 metafile = true
@@ -2492,6 +2497,11 @@ metafile = true
 [[files]]
 file = "mods/timeoutout.pw.toml"
 hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
+metafile = true
+
+[[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "8bf3894aa1f23eb474d4c4642ee2ced7b6ccb79d34189ffb8d5ddc031316e546"
 metafile = true
 
 [[files]]
