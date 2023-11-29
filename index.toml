@@ -356,6 +356,11 @@ hash = "984a09bc0fae7c6d2407fba7273e6b27c2fbf66040161e842e381ac314026d08"
 metafile = true
 
 [[files]]
+file = "mods/amarite.pw.toml"
+hash = "d46001010b39dab714fa9de6e97e1e1074dababf681b63d638859c3dc4fa7c91"
+metafile = true
+
+[[files]]
 file = "mods/amecs.pw.toml"
 hash = "65b0ccc80e7bb51344fc138cfe952a6c9cfea23db0282a8852799be0cca29b85"
 metafile = true
@@ -2637,6 +2642,11 @@ metafile = true
 [[files]]
 file = "mods/walkie-talkie.pw.toml"
 hash = "a55d2e620f362673051018738ee9a05c3d863260e6e7c1eae0edd052bc501192"
+metafile = true
+
+[[files]]
+file = "mods/wall-jump-txf.pw.toml"
+hash = "52caba24c30b858064237621d7d488b67ced6a5f31364f26fc1f7f20abb5bddb"
 metafile = true
 
 [[files]]
