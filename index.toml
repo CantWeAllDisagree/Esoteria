@@ -2191,11 +2191,6 @@ hash = "aeec817b9e3a04e6336fd7b5fea7c796363c0f79c127c04a42d8c31bb7d8fa88"
 metafile = true
 
 [[files]]
-file = "mods/recipe-essentials-forge-fabric.pw.toml"
-hash = "94b6c3c33810eb2ddb1ecf2fe5a26021d3704aee978b8515c02bffd9c6b6212a"
-metafile = true
-
-[[files]]
 file = "mods/red-bits.pw.toml"
 hash = "de64300d8da6290ad424fbb00a1c3d6a9fbe7e654779fe2a5f30566e5cb21348"
 metafile = true
