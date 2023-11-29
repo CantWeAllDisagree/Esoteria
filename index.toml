@@ -946,6 +946,11 @@ hash = "423bb897ea956eb46108cd2d366036c75c1c93760b832b79731e0d3dca7b8306"
 metafile = true
 
 [[files]]
+file = "mods/doggo-mod-overhauled.pw.toml"
+hash = "b6ece8c71e49de1683ad546e771cbf6d95d77333cf18fb10adf096883f6e4c9e"
+metafile = true
+
+[[files]]
 file = "mods/doodads-fabric.pw.toml"
 hash = "b5d29c7ca2aa83ac31f4a37e4d183235b600e72c0a4153b10bff487c7073d9a5"
 metafile = true
@@ -953,6 +958,11 @@ metafile = true
 [[files]]
 file = "mods/drink-beer-unofficial-clockwerk-edition.pw.toml"
 hash = "2e281465a7988a444ae0c03da2480eb6e26f56e2151ad69a055a9f11f5213ffa"
+metafile = true
+
+[[files]]
+file = "mods/dropz.pw.toml"
+hash = "dd0809cf2241f821293894bfa31cc00669b4f8430a5034386d6be4dd4e98f2a9"
 metafile = true
 
 [[files]]
@@ -2126,8 +2136,8 @@ hash = "d4c394ec87f2628e72fa3b55d2e54fb0006719a1c42844f2814080674c650fb6"
 metafile = true
 
 [[files]]
-file = "mods/rats-mischief.pw.toml"
-hash = "363683e6e075d43c60e28394ed2314177b6c18707757bb3858c8869e4bec14e2"
+file = "mods/rayon.pw.toml"
+hash = "a0a6676e0b40b4f20c0489021c404d838c98ee723082280928f586b3bc2470aa"
 metafile = true
 
 [[files]]
@@ -2317,6 +2327,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/solid_mobs.pw.toml"
+hash = "fd1b0e830cce072970f8d561cc92f692ac22c38b7d22e92350fb61b9d939ec46"
 metafile = true
 
 [[files]]
@@ -2542,6 +2557,11 @@ metafile = true
 [[files]]
 file = "mods/totally-lit.pw.toml"
 hash = "b327b2db1fa73f5357c7af7bcbb9442209411fef4500312f55c96ad18042a9c2"
+metafile = true
+
+[[files]]
+file = "mods/transmog.pw.toml"
+hash = "593eb359699d47ab057298901be7d797a2911f88fb15d387f1f8b55baac8cd07"
 metafile = true
 
 [[files]]
