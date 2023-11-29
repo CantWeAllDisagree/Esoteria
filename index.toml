@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/betterthirdperson.json5"
-hash = "a08f97002e75fbe4e2933cbb6137c8bcb33d1cd36e947e54829b8fa8ab3caa7c"
-
-[[files]]
 file = "config/forgero_settings.json"
 hash = "57def2d44d1c33c4177bbd90ae04358bcb4db9b3f2008dd5b7fb90a4784ddecf"
 
@@ -431,11 +427,6 @@ hash = "17d60bd87f441355aea5b62e1370f1ba260b12e5f8f647ad076609263e471ac0"
 metafile = true
 
 [[files]]
-file = "mods/armour-weight.pw.toml"
-hash = "55f532a73766531cf5678c4f40f4733828998234d828c12533f56a6676b4e5af"
-metafile = true
-
-[[files]]
 file = "mods/arrp.pw.toml"
 hash = "067c297842985d85d68b3ac840c58aa006e8959a0b2f3ad25a1967b07c05b41d"
 metafile = true
@@ -543,11 +534,6 @@ metafile = true
 [[files]]
 file = "mods/better-stats.pw.toml"
 hash = "b469c86a931721e040f584123ecb78a007cbf30de61a702d14fb73f71f7ebba0"
-metafile = true
-
-[[files]]
-file = "mods/better-third-person.pw.toml"
-hash = "1f836198a01aabd4a476d068f934d2c96cd5b5a78cf6facd237876b81a5c4636"
 metafile = true
 
 [[files]]
@@ -712,7 +698,7 @@ metafile = true
 
 [[files]]
 file = "mods/combatlog.pw.toml"
-hash = "717bc0956d3418b532b92672638a23bc8c988171570c970fed7bcae2fec2dddf"
+hash = "f3182f42c7e9f289bf1a9a2d68e7bdce32750fe07d4728d8d9fb05e55442c8ac"
 metafile = true
 
 [[files]]
