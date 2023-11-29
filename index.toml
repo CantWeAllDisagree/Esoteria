@@ -712,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/combatlog.pw.toml"
-hash = "a472652b6fd1a2fbd4e350992766a7ee6d801c6dba5eebc6e766f1215dac85ef"
+hash = "717bc0956d3418b532b92672638a23bc8c988171570c970fed7bcae2fec2dddf"
 metafile = true
 
 [[files]]
