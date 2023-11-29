@@ -1,6 +1,6 @@
 name = "Sprint Fix"
 filename = "sprint-1.0.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
