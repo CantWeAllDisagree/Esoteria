@@ -2153,8 +2153,12 @@ metafile = true
 
 [[files]]
 file = "mods/rats-mischief.pw.toml"
-hash = "363683e6e075d43c60e28394ed2314177b6c18707757bb3858c8869e4bec14e2"
+hash = "f1b3032b8d172b53716c8191648568d46a38bad3bd79235507da7027bc96aa59"
 metafile = true
+
+[[files]]
+file = "mods/ratsmischief-2.0.jar"
+hash = "66961e704892464d55b25f45fed3aa85faa16b653f4fceac9a2444ddd1fc3719"
 
 [[files]]
 file = "mods/reacharound.pw.toml"
