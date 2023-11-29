@@ -2126,6 +2126,11 @@ hash = "d4c394ec87f2628e72fa3b55d2e54fb0006719a1c42844f2814080674c650fb6"
 metafile = true
 
 [[files]]
+file = "mods/rats-mischief.pw.toml"
+hash = "363683e6e075d43c60e28394ed2314177b6c18707757bb3858c8869e4bec14e2"
+metafile = true
+
+[[files]]
 file = "mods/reacharound.pw.toml"
 hash = "afedc35545eb5be295caee5e0cac50de9941e4487a1a78d54ead98cc69110843"
 metafile = true
