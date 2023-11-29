@@ -1491,11 +1491,6 @@ hash = "722a61460c6fc802c2c25fb26deb025517f2a9ae6aa53cf43b1afec2363981ce"
 metafile = true
 
 [[files]]
-file = "mods/kurisus-passable-leaves.pw.toml"
-hash = "efddece4bd8b600a9147d5cc253553daee9a5f764b17e0ac865e65cc286f591b"
-metafile = true
-
-[[files]]
 file = "mods/labels.pw.toml"
 hash = "bc2ba9bbe9f4b0e9291e5eebe00df36343f82c14bc188167fa21946d4e7cb1df"
 metafile = true
@@ -1981,6 +1976,11 @@ hash = "231407e9712a23d663151d59dda4fe1c936ead8833b7da8f7bd41c5e2bc5e265"
 metafile = true
 
 [[files]]
+file = "mods/passable-leaves.pw.toml"
+hash = "d06837f7f06877b2cef0e6aeb6819de031358b2ada3c244df1878ada57fd7d45"
+metafile = true
+
+[[files]]
 file = "mods/patchouli-fabric.pw.toml"
 hash = "0103115337ebe895bb4802a4de51d9ea8f130112581b9cdf28ed3abee59d50de"
 metafile = true
@@ -2317,11 +2317,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
-metafile = true
-
-[[files]]
-file = "mods/solid_mobs.pw.toml"
-hash = "fd1b0e830cce072970f8d561cc92f692ac22c38b7d22e92350fb61b9d939ec46"
 metafile = true
 
 [[files]]
