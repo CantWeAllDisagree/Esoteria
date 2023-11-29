@@ -2415,6 +2415,11 @@ hash = "8f3a781db770fbcdac185c49ea914cceca1b76620b7d5776dc2e7f00669c7676"
 metafile = true
 
 [[files]]
+file = "mods/sprint-fix.pw.toml"
+hash = "adecec0c9134cc8ced6760c22153f47b2a61d2384d5797dd565327bee0676d32"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true

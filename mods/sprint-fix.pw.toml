@@ -1,0 +1,13 @@
+name = "Sprint Fix"
+filename = "sprint-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26019798194176df2feeab2993724b7a964e53e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4554093
+project-id = 866451
