@@ -431,6 +431,11 @@ hash = "17d60bd87f441355aea5b62e1370f1ba260b12e5f8f647ad076609263e471ac0"
 metafile = true
 
 [[files]]
+file = "mods/armour-weight.pw.toml"
+hash = "55f532a73766531cf5678c4f40f4733828998234d828c12533f56a6676b4e5af"
+metafile = true
+
+[[files]]
 file = "mods/arrp.pw.toml"
 hash = "067c297842985d85d68b3ac840c58aa006e8959a0b2f3ad25a1967b07c05b41d"
 metafile = true
@@ -513,6 +518,11 @@ metafile = true
 [[files]]
 file = "mods/better-animations-collection.pw.toml"
 hash = "026414a0dcab2f08018f569431081e5e5c245cdb3c74ee3aaaa466403b6a7be3"
+metafile = true
+
+[[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "67fe747adea8985181f1787d06b96fd90e48b60c3b1674daf45aa590a150c7c8"
 metafile = true
 
 [[files]]
@@ -671,6 +681,11 @@ hash = "1c6f60cadb87f28dd67609bf720b1a3564057b5d381898517b7ad4053e46f280"
 metafile = true
 
 [[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "24d9c322e939cacb0b036fecba3bf4514c29e4e982c241c80c6d40b834e7dc03"
+metafile = true
+
+[[files]]
 file = "mods/chunks-fade-in.pw.toml"
 hash = "5d6498cf74852f8da28eef19c2fe1effcd69008ffebd316621629c759609e57b"
 metafile = true
@@ -696,6 +711,11 @@ hash = "72727045297f448b5610bd045a422dea33ab67198d3ba545cb44223ec8b52057"
 metafile = true
 
 [[files]]
+file = "mods/combatlog.pw.toml"
+hash = "a472652b6fd1a2fbd4e350992766a7ee6d801c6dba5eebc6e766f1215dac85ef"
+metafile = true
+
+[[files]]
 file = "mods/companion.pw.toml"
 hash = "7892ca15233c87f50cce50898d1b6ab8cb06c47f8fcc1aa97bd816ddae6d9a0e"
 metafile = true
@@ -708,6 +728,16 @@ metafile = true
 [[files]]
 file = "mods/conjuring.pw.toml"
 hash = "91bc23a1e8958b1946acadf7111ac370a31a308f669cc814f99aeeb271626441"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "93e56787ea6b7ff794f84d4238fa194705dc65b1f73d204bddb3e2948d24c366"
+metafile = true
+
+[[files]]
+file = "mods/contenttweaker.pw.toml"
+hash = "d95307d73414039d0a78b78ae3e1035964c70d365485b1a76dfc5a72ce0dcbd5"
 metafile = true
 
 [[files]]
@@ -1566,6 +1596,16 @@ hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
 
 [[files]]
+file = "mods/log-begone.pw.toml"
+hash = "cdab79d188f952aec675cb33f9c9d6350e92a7580f0eeee4d06673b9967ef0bf"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.pw.toml"
+hash = "a80160377d220c8e9aa3026a4e68941af37d23713ca1787936a3c7c98cb22ca9"
+metafile = true
+
+[[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "6bb838acd4ec33132803e4c7538abce776d96c29fd9da0cabe5f4891fc0ade24"
 metafile = true
@@ -2161,6 +2201,11 @@ hash = "aeec817b9e3a04e6336fd7b5fea7c796363c0f79c127c04a42d8c31bb7d8fa88"
 metafile = true
 
 [[files]]
+file = "mods/recipe-essentials-forge-fabric.pw.toml"
+hash = "94b6c3c33810eb2ddb1ecf2fe5a26021d3704aee978b8515c02bffd9c6b6212a"
+metafile = true
+
+[[files]]
 file = "mods/red-bits.pw.toml"
 hash = "de64300d8da6290ad424fbb00a1c3d6a9fbe7e654779fe2a5f30566e5cb21348"
 metafile = true
@@ -2300,6 +2345,11 @@ hash = "44f1078e3bcfa5bf1c62c514cba1d1754ca007566bf1d565822f88704fa011ec"
 metafile = true
 
 [[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "a40876bff3eec24a92727e57ac63fb9e05966f317016f9e7571107292502c254"
+metafile = true
+
+[[files]]
 file = "mods/smooth-swapping.pw.toml"
 hash = "e3387f6f4a066004b25bfde659986dff31b9bb1197f3eb35b23726bf8d62154b"
 metafile = true
@@ -2392,6 +2442,11 @@ metafile = true
 [[files]]
 file = "mods/structory.pw.toml"
 hash = "d4acddd9dbe8063560fa281eb07898471841df72832e6068015cb742928f2e90"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "1d615daef38c8417216d391201f215df2deba7625e58f08925bac3d027d690bb"
 metafile = true
 
 [[files]]
@@ -2537,6 +2592,11 @@ metafile = true
 [[files]]
 file = "mods/toms-trading-network.pw.toml"
 hash = "4a63eed3f882491e5a782b661f8895177fa526049559df49669e7a093e9cb24b"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "6ef6600bda4c393935c9f984d9fd7603c34d50c3efec660e14fa5b7de75de6d1"
 metafile = true
 
 [[files]]
