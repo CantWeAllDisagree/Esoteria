@@ -2320,11 +2320,6 @@ hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
-file = "mods/solid_mobs.pw.toml"
-hash = "fd1b0e830cce072970f8d561cc92f692ac22c38b7d22e92350fb61b9d939ec46"
-metafile = true
-
-[[files]]
 file = "mods/soul-fired.pw.toml"
 hash = "a1a855fe4cc345b993262959a2b3e580beb49f4ba5b50048096bb49d70309ec1"
 metafile = true
