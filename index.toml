@@ -2670,6 +2670,11 @@ hash = "4a63451ef8d020713651dd9d364772595b0124138511a1a39c9b8c8e72e3c0c0"
 metafile = true
 
 [[files]]
+file = "mods/walk-jog-run.pw.toml"
+hash = "2dc749d9d290f810921760338e45ae71bc80b096c1a1d1ce2477dd3c83dcd87f"
+metafile = true
+
+[[files]]
 file = "mods/walkie-talkie.pw.toml"
 hash = "a55d2e620f362673051018738ee9a05c3d863260e6e7c1eae0edd052bc501192"
 metafile = true
