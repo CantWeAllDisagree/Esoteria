@@ -1364,11 +1364,6 @@ hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
 
 [[files]]
-file = "mods/lmft.pw.toml"
-hash = "3956ed24d751a2d0b7eaf5668358f7124550fb96ff0fe569378141fe08cc215a"
-metafile = true
-
-[[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "6bb838acd4ec33132803e4c7538abce776d96c29fd9da0cabe5f4891fc0ade24"
 metafile = true
