@@ -1,0 +1,21 @@
+{
+    "id": 2,
+    "title": "Wooden help",
+    "level": 0,
+    "type": "",
+    "profession": "toolsmith",
+    "refresh": 700,
+    "task": [
+        "submit",
+        "minecraft:wooden_axe",
+        1,
+        "submit",
+        "minecraft:wooden_pickaxe",
+        1
+    ],
+    "description": "Hey Wanderer, can you craft some tools for me? I'll pay you.",
+    "reward": [
+        "minecraft:emerald",
+        8
+    ]
+}

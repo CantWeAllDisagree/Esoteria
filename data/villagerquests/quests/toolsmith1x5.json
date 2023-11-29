@@ -1,0 +1,24 @@
+{
+    "id": 5,
+    "title": "Fight for us",
+    "level": 1,
+    "type": "fight",
+    "profession": "toolsmith",
+    "timer": 700,
+    "task": [
+        "kill",
+        "minecraft:zombie",
+        25,
+        "kill",
+        "minecraft:creeper",
+        10
+    ],
+    "description": "I'm glad that you came. Mobs are harming my business, please teach them a lesson!",
+    "experience": 10,
+    "reward": [
+        "minecraft:emerald",
+        10,
+        "minecraft:stone_sword",
+        1
+    ]
+}
