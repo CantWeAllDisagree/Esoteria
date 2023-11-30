@@ -757,6 +757,11 @@ hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
+file = "mods/coffwallclimb.pw.toml"
+hash = "97e69f24c0c585faeb15adaae26b76089d906fe885a8100cc62ca673fac3ca9d"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "f065f8d023815a013aeda771bdcd09145bc6a56b4edaadd44e7957eb67ee248e"
 metafile = true
@@ -2855,11 +2860,6 @@ metafile = true
 [[files]]
 file = "mods/walkie-talkie.pw.toml"
 hash = "a55d2e620f362673051018738ee9a05c3d863260e6e7c1eae0edd052bc501192"
-metafile = true
-
-[[files]]
-file = "mods/wall-jump-txf.pw.toml"
-hash = "52caba24c30b858064237621d7d488b67ced6a5f31364f26fc1f7f20abb5bddb"
 metafile = true
 
 [[files]]

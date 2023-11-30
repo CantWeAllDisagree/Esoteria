@@ -1,0 +1,13 @@
+name = "CoffeeG's Wall Climbing"
+filename = "coffwallclimb-1.0.4a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ie1S9PJr/versions/EUvHBWQ7/coffwallclimb-1.0.4a.jar"
+hash-format = "sha1"
+hash = "5cea0c4f416b0b22db4b09e22e03dd3dd1492e32"
+
+[update]
+[update.modrinth]
+mod-id = "ie1S9PJr"
+version = "EUvHBWQ7"
