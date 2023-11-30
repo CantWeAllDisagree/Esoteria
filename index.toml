@@ -1426,11 +1426,6 @@ hash = "16a29c493ce95cbcfdfa5e29d9962d9a56cf21507e20156b1d452f1a77cfc271"
 metafile = true
 
 [[files]]
-file = "mods/hand-over-your-items.pw.toml"
-hash = "d6885efa6317b61410fce84900ffba3b371aa82fd82006cd45a244ca4807e5b8"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "b92f07d5a77d6dfff1a693dae256925da90483633835a4c307c95d28a12f372c"
 metafile = true
