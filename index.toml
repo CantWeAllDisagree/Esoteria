@@ -70,18 +70,8 @@ hash = "6ca4d9864b2d3250297da7c17f86156d290eda102efc15c9ab31c3016fb06d18"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/light-sabers.pw.toml"
-hash = "59e7ea2acf323a4adb9337e1c5f181a666c2a3e7eb6c49daa93f5161f1c8802e"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/more-mobs.pw.toml"
 hash = "11b5a240f69a7387cf00f1067db24f5279c0ad15acacd2d4e12952b00d5b663c"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/portalgun.pw.toml"
-hash = "0c133fe00854e95f7134297e1d5c9f6a86684b31715d13b59987908affcbb52e"
 metafile = true
 
 [[files]]
@@ -107,11 +97,6 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
-
-[[files]]
-file = "config/paxi/resourcepacks/alien-packs.pw.toml"
-hash = "f19526ccdd19987df031a7c0217fabbb6e697ba53aee34eee0c7884ece85e90a"
-metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/axolotl-bucket-variants.pw.toml"
