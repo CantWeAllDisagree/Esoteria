@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/almostunified/debug.json"
+hash = "4f1808d3941300cf6e2c53b5a37f2808a4d904e63597cd4e03a03d19e4762fef"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "d285d07e8bedb9e760fb677e774f90399093e4f73a45e79d5245997a4e98aa44"
+
+[[files]]
+file = "config/almostunified/startup.json"
+hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
+
+[[files]]
+file = "config/almostunified/unify.json"
+hash = "33015b21531c1fa96759395232cd0465a036935e40954b418254c8d31f8cd0cd"
+
+[[files]]
 file = "config/byg/biomepedia.json5"
 hash = "8fc519a8e6ca95a62903924e378efe098b3deeab6013b0fc6c84df71ff6a6866"
 
@@ -91,6 +107,14 @@ hash = "20dbdd8d77faf4294b1feb7cdd29a03dea1a31e5439ba040f1ce4f3b769499fb"
 [[files]]
 file = "config/starterkit/starterkit.txt"
 hash = "d0bf760d1c1d17136fc8e9cf2db05cc81b121965756de0ac9fc345bc5ff06181"
+
+[[files]]
+file = "config/styledplayerlist/config.json"
+hash = "2b6e8b2e66eb2dc79143666152b05e1e8a61280f36902ed96d87029c10c81459"
+
+[[files]]
+file = "config/styledplayerlist/styles/default.json"
+hash = "fe28723c87cb024526b52db503ce92a4c3e24392d005285c6467d47e7093a919"
 
 [[files]]
 file = "config/tempad.json"
@@ -307,10 +331,6 @@ hash = "17db1c3fc12a574c16541cd73c3d7466ae668227760a57d6f4fe7151ae1483ea"
 [[files]]
 file = "data/villagerquests/quests/toolsmith5x21.json"
 hash = "9890901738a14a3cc3abfd2165b2b665be540d294b986abaf41e699be16d28ff"
-
-[[files]]
-file = "gitignore.txt"
-hash = "98bfc6517d00b8bf84bfe8d2f7468c11a792cdf12814befb041bb3c137f64c53"
 
 [[files]]
 file = "mods/-sculk-horn.pw.toml"
