@@ -2013,6 +2013,11 @@ hash = "426b01481aceca23494ba26bfcfef06e0c2e8ddfac83221570ddaca244afa799"
 metafile = true
 
 [[files]]
+file = "mods/more-babies.pw.toml"
+hash = "1dc2fa0ed7e54a54cda115a7dd0083b81a9d1175479c73701656fa548b716c49"
+metafile = true
+
+[[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "c35b0252ae300b79eed5d532c21c5ef1859fcbdcb743f5cdebaf667d767546e2"
 metafile = true
