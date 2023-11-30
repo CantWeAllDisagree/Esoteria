@@ -2619,6 +2619,11 @@ hash = "7801a82f08420b8feba86caf69dd770fbefb4d29fd218b78543c3d196468333f"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "b854ce19de580347e2835af5d0538d9481d1678921c2caa4791205b2571f776c"
+metafile = true
+
+[[files]]
 file = "mods/sync-mc.pw.toml"
 hash = "5032d24474ab064df505b3e4325038eab618b1344d2406246ca450e6e2a6cfc9"
 metafile = true
