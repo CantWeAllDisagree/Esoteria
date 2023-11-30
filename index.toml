@@ -1765,6 +1765,11 @@ hash = "b24adb2f1a25e5c625ecd6000201563a252e652ef72f3bc7bafb75474b09b1a6"
 metafile = true
 
 [[files]]
+file = "mods/minimotd.pw.toml"
+hash = "224b831a1cdce497428441731ebbfcbf4565b53f12225f21b90a7116e8b3c1b9"
+metafile = true
+
+[[files]]
 file = "mods/missions.pw.toml"
 hash = "e38563c43e08a8f4ccaac868a8f2a6f2a5fe7ba7e0713111e72da86dd68b4d36"
 metafile = true
