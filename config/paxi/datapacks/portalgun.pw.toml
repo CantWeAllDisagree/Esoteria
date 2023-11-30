@@ -1,0 +1,13 @@
+name = "Rick & Mortys Portal Gun"
+filename = "Rick&Morty_PortalGun_Datapack_1.19.2-1.19.3_V1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aSQmsjK8/versions/gB0OC3AT/Rick%26Morty_PortalGun_Datapack_1.19.2-1.19.3_V1.0.zip"
+hash-format = "sha1"
+hash = "c02354ead934000f8f8ffcc6403a418274aa3da8"
+
+[update]
+[update.modrinth]
+mod-id = "aSQmsjK8"
+version = "gB0OC3AT"

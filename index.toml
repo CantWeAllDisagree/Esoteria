@@ -60,8 +60,23 @@ hash = "3a0f176aea45106028a87258f89effc710c016fbb03c71a0de3c18355ecf2a04"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/light-sabers.pw.toml"
+hash = "59e7ea2acf323a4adb9337e1c5f181a666c2a3e7eb6c49daa93f5161f1c8802e"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/mechanization.pw.toml"
+hash = "eaed3abf1099b2730672a9f7227a7df4c329a6aec863261c4bcccfb5646814fe"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/more-mobs.pw.toml"
 hash = "11b5a240f69a7387cf00f1067db24f5279c0ad15acacd2d4e12952b00d5b663c"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/portalgun.pw.toml"
+hash = "0c133fe00854e95f7134297e1d5c9f6a86684b31715d13b59987908affcbb52e"
 metafile = true
 
 [[files]]
@@ -72,6 +87,16 @@ metafile = true
 [[files]]
 file = "config/paxi/datapacks/spawn-animations.pw.toml"
 hash = "d9ca92edf4a87f33fc762c5c4de4dd81b0ed2f398a68e522dc2c1e537c5db583"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/tidal-towns.pw.toml"
+hash = "fa26e127dfeceae44f98476ae81a59780f9206588eb09681059e92c1ba7a6228"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/ultris.pw.toml"
+hash = "5fc8106e21be3e33e506b3a26fbc564cef215a20b80af6b3b9896868c434b123"
 metafile = true
 
 [[files]]
@@ -572,6 +597,11 @@ hash = "eee81e5792dd62817181f5734aad82b56abb23ccd1aa50f92c7677f312ba0ecb"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "f156a51ba3706bbdd6d38a6d5a40364cf62d4911490635d3341ff07d4acb8dc7"
+metafile = true
+
+[[files]]
 file = "mods/better-animations-collection.pw.toml"
 hash = "026414a0dcab2f08018f569431081e5e5c245cdb3c74ee3aaaa466403b6a7be3"
 metafile = true
@@ -593,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-mineshaft.pw.toml"
-hash = "272c73dbcfa62ae56f804f9a38832a36b6f0e4bb1286f8d545babd963d650cec"
+hash = "8ab4c1ddb70688a4ef9a2ff6a0e3046ed9984ea24209bf1be23cdbd572cbd31d"
 metafile = true
 
 [[files]]
@@ -607,8 +637,13 @@ hash = "b469c86a931721e040f584123ecb78a007cbf30de61a702d14fb73f71f7ebba0"
 metafile = true
 
 [[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "1f836198a01aabd4a476d068f934d2c96cd5b5a78cf6facd237876b81a5c4636"
+metafile = true
+
+[[files]]
 file = "mods/better-underwater-ruins.pw.toml"
-hash = "f12595dcd11943630ca85f6b09548d57e7f2df05e298b5d165136323926b5842"
+hash = "0cedad6102a4d4e8325f5fc5efc75c25725892372ac7b4dadaffe6b5037db3f3"
 metafile = true
 
 [[files]]
@@ -762,6 +797,11 @@ hash = "b52cd1f4295d855882a41b5f164385e2ba460d7766a2e2e6183ef56c00c824ab"
 metafile = true
 
 [[files]]
+file = "mods/cleardespawn.pw.toml"
+hash = "a1b43ad6bb503bbe88b9047f28a861c2d5425a4eb3c814c32a96e7aa388ea137"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
@@ -779,6 +819,11 @@ metafile = true
 [[files]]
 file = "mods/combatlog.pw.toml"
 hash = "f3182f42c7e9f289bf1a9a2d68e7bdce32750fe07d4728d8d9fb05e55442c8ac"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "77af460162c8b171b2060fb328faf161e718347cdf7d08b933bce12ab7f3edeb"
 metafile = true
 
 [[files]]
@@ -1039,6 +1084,11 @@ metafile = true
 [[files]]
 file = "mods/do-api.pw.toml"
 hash = "423bb897ea956eb46108cd2d366036c75c1c93760b832b79731e0d3dca7b8306"
+metafile = true
+
+[[files]]
+file = "mods/doggo-mod-overhauled.pw.toml"
+hash = "b6ece8c71e49de1683ad546e771cbf6d95d77333cf18fb10adf096883f6e4c9e"
 metafile = true
 
 [[files]]
@@ -1487,7 +1537,7 @@ metafile = true
 
 [[files]]
 file = "mods/hopo-better-ruined-portals.pw.toml"
-hash = "49ccdd8c4f00e76e6ab418bd8e982ac89410138f44dfcd7489072f283fa41da5"
+hash = "6ca4d9864b2d3250297da7c17f86156d290eda102efc15c9ab31c3016fb06d18"
 metafile = true
 
 [[files]]
@@ -1693,6 +1743,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "c038a6ea641541af0aee754c41df71ccb662245863cecb43d64c202baf561291"
 metafile = true
 
 [[files]]
@@ -2723,6 +2778,11 @@ hash = "f76293001a405fa99903869bc8d5f3caa2976f0179513f73f59fc82dfbce9f72"
 metafile = true
 
 [[files]]
+file = "mods/time-wind.pw.toml"
+hash = "9047965bc4ec80b16dee8bf33c23775c49fb5f8692ebfabece0b6533be0006ca"
+metafile = true
+
+[[files]]
 file = "mods/tiny-item-animations.pw.toml"
 hash = "8bf3894aa1f23eb474d4c4642ee2ced7b6ccb79d34189ffb8d5ddc031316e546"
 metafile = true
@@ -2775,6 +2835,16 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "8778e193062a35c13ae2df7a7a667dac45cf81310d5853dcdd7d2768a19fdd23"
+metafile = true
+
+[[files]]
+file = "mods/treeplacer-terralith-addon.pw.toml"
+hash = "03422433ec5f229a8b0f47e32262fe28cddc13c3070fd75cf3bfb9b527e5c855"
+metafile = true
+
+[[files]]
+file = "mods/treeplacer.pw.toml"
+hash = "67ff20cb4eacfd6ac9a1346eeaa4b317531a1a2746e9a98822341f6b11aa76d0"
 metafile = true
 
 [[files]]
@@ -3015,4 +3085,9 @@ metafile = true
 [[files]]
 file = "mods/zenith.pw.toml"
 hash = "3590999115f7735107f5df3f6e3dd8b3440fd2c9d34b8f8af6ed08df288e5ef6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/alien-packs.pw.toml"
+hash = "f19526ccdd19987df031a7c0217fabbb6e697ba53aee34eee0c7884ece85e90a"
 metafile = true

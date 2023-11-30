@@ -1,0 +1,13 @@
+name = "Hopo Better Mineshaft"
+filename = "[DatapackVer.] HopoBetterMineshaft-1.19-1.19.3_1.1.6.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9IxCUYAP/versions/K0cc7B6E/%5BDatapackVer.%5D%20HopoBetterMineshaft-1.19-1.19.3_1.1.6.zip"
+hash-format = "sha1"
+hash = "9be13bc258fe29a6443013aedd142d95455a5b88"
+
+[update]
+[update.modrinth]
+mod-id = "9IxCUYAP"
+version = "K0cc7B6E"

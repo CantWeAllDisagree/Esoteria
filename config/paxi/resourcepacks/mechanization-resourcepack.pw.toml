@@ -1,0 +1,13 @@
+name = "Mechanization Resource Pack"
+filename = "MechResourcepack_v4.0.5a.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PImafDDD/versions/dHQaW9E9/MechResourcepack_v4.0.5a.zip"
+hash-format = "sha1"
+hash = "10367ea7a3b27183983daa2a162a12e7550ad021"
+
+[update]
+[update.modrinth]
+mod-id = "PImafDDD"
+version = "dHQaW9E9"

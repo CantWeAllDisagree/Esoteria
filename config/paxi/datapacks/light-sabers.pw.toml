@@ -1,0 +1,13 @@
+name = "Light Sabers"
+filename = "Alien-Packs_Light-Sabers_Datapack_by_Mr3DAlien_1.19-1.19.3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NIydH7U9/versions/kBEqhdty/Alien-Packs_Light-Sabers_Datapack_by_Mr3DAlien_1.19-1.19.3.zip"
+hash-format = "sha1"
+hash = "8b35fd8717484902f7247676f54ec485a5d452bd"
+
+[update]
+[update.modrinth]
+mod-id = "NIydH7U9"
+version = "kBEqhdty"

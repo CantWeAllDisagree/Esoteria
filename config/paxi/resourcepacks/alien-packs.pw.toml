@@ -1,0 +1,13 @@
+name = "Alien-Packs Resources"
+filename = "Alien-Packs_Resourcepack_by_Mr3DAlien_1.19-1.19.2_V1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mBFOluZU/versions/U2r9lWnI/Alien-Packs_Resourcepack_by_Mr3DAlien_1.19-1.19.2_V1.0.zip"
+hash-format = "sha1"
+hash = "98c51c5c5c5ead3bbe07954b8443a58aa0d254b7"
+
+[update]
+[update.modrinth]
+mod-id = "mBFOluZU"
+version = "U2r9lWnI"
