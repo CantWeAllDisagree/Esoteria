@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://github.com/CantWeAllDisagree/Esoteria"
 hash-format = "sha256"
-hash = "3d83a21ede9b69c7fe601f8cef0fb8f09953fb91"
+hash = "30cd7e83d2e8dffc05bace41fc835df0937a72ac6812ba28440e7f82ae3c2a69"
