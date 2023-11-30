@@ -1,0 +1,8 @@
+name = "Early Stage"
+filename = "earlystage-1.0.10-dirty.jar"
+side = "both"
+
+[download]
+url = "https://github.com/CantWeAllDisagree/Esoteria"
+hash-format = "sha256"
+hash = "6d0a909a61cc3c26615f171fab6fd520a56168b218d7e094c1b5077ff91168f0"

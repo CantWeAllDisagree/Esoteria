@@ -327,6 +327,15 @@ hash = "6b853c14d47c17b7fa62e5384a9c5b0e7a5f2fb522308243793ceb951063df1f"
 metafile = true
 
 [[files]]
+file = "mods/advancedtooltips-1.6.0+1.19-dirty.jar"
+hash = "30cd7e83d2e8dffc05bace41fc835df0937a72ac6812ba28440e7f82ae3c2a69"
+
+[[files]]
+file = "mods/advancedtooltips.pw.toml"
+hash = "b82069d1dbbba15ea5645e1bba6c91a7a88e45561a595a8f6ea6e402f0d76cb5"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "d3a87d340439309a208ec67f0d9c8004458b315f39add685ee298909988f0d9b"
 metafile = true
@@ -984,6 +993,15 @@ metafile = true
 [[files]]
 file = "mods/dynamiccrosshaircompat.pw.toml"
 hash = "4808becb244f30886c078a49a7cf1c5adeec6884d82fea283bf8834a3763edd7"
+metafile = true
+
+[[files]]
+file = "mods/earlystage-1.0.10-dirty.jar"
+hash = "6d0a909a61cc3c26615f171fab6fd520a56168b218d7e094c1b5077ff91168f0"
+
+[[files]]
+file = "mods/earlystage.pw.toml"
+hash = "2d9208211cc9cf3731779a9d2ab5203b16aea6657b628518da97c97ea02de702"
 metafile = true
 
 [[files]]
@@ -2458,6 +2476,15 @@ metafile = true
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "7801a82f08420b8feba86caf69dd770fbefb4d29fd218b78543c3d196468333f"
 metafile = true
+
+[[files]]
+file = "mods/sync-mc.pw.toml"
+hash = "5032d24474ab064df505b3e4325038eab618b1344d2406246ca450e6e2a6cfc9"
+metafile = true
+
+[[files]]
+file = "mods/sync-mc1.19.2-4.3+rev.e821350-dirty.jar"
+hash = "c1e1ec4f504fbea95f9d0616a80b9d96e7d1cf8be385345fa1f335e7dd79b3e5"
 
 [[files]]
 file = "mods/table-top-craft-fabric.pw.toml"

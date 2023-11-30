@@ -1,0 +1,8 @@
+name = "Advanced Tooltips"
+filename = "advancedtooltips-1.6.0+1.19-dirty.jar"
+side = "client"
+
+[download]
+url = "https://github.com/CantWeAllDisagree/Esoteria"
+hash-format = "sha256"
+hash = "3d83a21ede9b69c7fe601f8cef0fb8f09953fb91"

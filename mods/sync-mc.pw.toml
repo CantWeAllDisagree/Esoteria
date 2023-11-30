@@ -1,0 +1,8 @@
+name = "Sync"
+filename = "sync-mc1.19.2-4.3+rev.e821350-dirty.jar"
+side = "both"
+
+[download]
+url = "https://github.com/CantWeAllDisagree/Esoteria"
+hash-format = "sha256"
+hash = "c1e1ec4f504fbea95f9d0616a80b9d96e7d1cf8be385345fa1f335e7dd79b3e5"
