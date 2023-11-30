@@ -75,11 +75,6 @@ hash = "59e7ea2acf323a4adb9337e1c5f181a666c2a3e7eb6c49daa93f5161f1c8802e"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/mechanization.pw.toml"
-hash = "eaed3abf1099b2730672a9f7227a7df4c329a6aec863261c4bcccfb5646814fe"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/more-mobs.pw.toml"
 hash = "11b5a240f69a7387cf00f1067db24f5279c0ad15acacd2d4e12952b00d5b663c"
 metafile = true
@@ -126,11 +121,6 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/incendium-optional-resourcepack.pw.toml"
 hash = "ef7eeaf34f1110b22e75a1bcd43ccb9c23bc1ffadf5952b222912d900a535bf8"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/mechanization-resourcepack.pw.toml"
-hash = "d8cc38b6d1a32a6fe3265e9fa7fa8ea2e4190aaec6b0a2c59f0e620bd25ea040"
 metafile = true
 
 [[files]]
