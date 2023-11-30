@@ -427,6 +427,11 @@ hash = "165e947738fff72282fb851de6e5533fd22a5ad66a64fe5cd8166c8c0d820c1e"
 metafile = true
 
 [[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "79175430843c1c8d66a875aa6163bce12a7cc88593e6da9022e8303e464dc0d4"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "04df200f372e8e79fb88dd1f38e0bca23805303550192669cac5db95448fbea1"
 metafile = true
@@ -2018,6 +2023,16 @@ metafile = true
 [[files]]
 file = "mods/mythic-mounts.pw.toml"
 hash = "fa3e6761533bb42f0f4f445b5773f7920be335620318e59c871cfa1b42b7e6f1"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals-decorations.pw.toml"
+hash = "d225518cb18f6f1628178fbf825627155f651ec12ff71730dcb9e20dbcd73212"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "d78aaf967f7051e9bbe28bff1a10da4d3a5d2f9303d87597feb9cdd69332fb80"
 metafile = true
 
 [[files]]
