@@ -1,0 +1,13 @@
+name = "Bound Tools"
+filename = "boundweapons-1.0.2-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xvZkGRvl/versions/bvaTzOSW/boundweapons-1.0.2-1.19.2.jar"
+hash-format = "sha1"
+hash = "c3a997349fa3ee64e8ee842883351dfbb69a03b2"
+
+[update]
+[update.modrinth]
+mod-id = "xvZkGRvl"
+version = "bvaTzOSW"

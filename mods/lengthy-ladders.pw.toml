@@ -1,0 +1,13 @@
+name = "Lengthy Ladders"
+filename = "lengthyladders-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fbf141cc5a567b5c30ab5cd92a53f0ed682be423"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3522416
+project-id = 403634

@@ -309,10 +309,6 @@ file = "data/villagerquests/quests/toolsmith5x21.json"
 hash = "9890901738a14a3cc3abfd2165b2b665be540d294b986abaf41e699be16d28ff"
 
 [[files]]
-file = "gitignore.txt"
-hash = "98bfc6517d00b8bf84bfe8d2f7468c11a792cdf12814befb041bb3c137f64c53"
-
-[[files]]
 file = "mods/-sculk-horn.pw.toml"
 hash = "b424bc24cc37710d6bf7dd96638bb2d946135de9946254fd6198ba0a54e67db1"
 metafile = true
@@ -657,6 +653,16 @@ hash = "ed2e23b38b2e862d187b8303903724995bc3c61ce54a72733f3c3792932c2b86"
 metafile = true
 
 [[files]]
+file = "mods/bouncy-life.pw.toml"
+hash = "cfa0543e0c992a6176ceb756cced79df277b7b177f3ab265ef0559f01822f854"
+metafile = true
+
+[[files]]
+file = "mods/bound-tools.pw.toml"
+hash = "80e5fd283cdd62e692e5899ce28954832fce35003a7611a620b7b313e4ef36cc"
+metafile = true
+
+[[files]]
 file = "mods/bountiful-fabric.pw.toml"
 hash = "59728592596adaba0664857ea87de5bb446c7f5d1e62f5f10d7f7453e42cd0be"
 metafile = true
@@ -759,6 +765,11 @@ metafile = true
 [[files]]
 file = "mods/conjuring.pw.toml"
 hash = "91bc23a1e8958b1946acadf7111ac370a31a308f669cc814f99aeeb271626441"
+metafile = true
+
+[[files]]
+file = "mods/connectible_chains.pw.toml"
+hash = "3bb5d79ae78bcfa2fcb08f3852c4c1ac1893569ac75ccc2e9131d9b17dc61f5c"
 metafile = true
 
 [[files]]
@@ -1009,6 +1020,11 @@ metafile = true
 [[files]]
 file = "mods/drink-beer-unofficial-clockwerk-edition.pw.toml"
 hash = "2e281465a7988a444ae0c03da2480eb6e26f56e2151ad69a055a9f11f5213ffa"
+metafile = true
+
+[[files]]
+file = "mods/droplight.pw.toml"
+hash = "02264ebb63a7c738bf95ab76e496d4298a511c5429f179984ef814a7348d4af0"
 metafile = true
 
 [[files]]
@@ -1386,6 +1402,11 @@ hash = "16a29c493ce95cbcfdfa5e29d9962d9a56cf21507e20156b1d452f1a77cfc271"
 metafile = true
 
 [[files]]
+file = "mods/hand-over-your-items.pw.toml"
+hash = "d6885efa6317b61410fce84900ffba3b371aa82fd82006cd45a244ca4807e5b8"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "b92f07d5a77d6dfff1a693dae256925da90483633835a4c307c95d28a12f372c"
 metafile = true
@@ -1593,6 +1614,11 @@ metafile = true
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "e4958dc5dc67d3595710ee4b644edd1bed50eecf2fd990949487d47999e40729"
+metafile = true
+
+[[files]]
+file = "mods/lengthy-ladders.pw.toml"
+hash = "9506458e503c40c3af3e24d1f9d992867e837e272520bec28d7c79d2646538ad"
 metafile = true
 
 [[files]]
@@ -2870,6 +2896,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
+metafile = true
+
+[[files]]
+file = "mods/yippee.pw.toml"
+hash = "d2fc4dc990bb56cd1098c9146701b61ea0e3dbd1022341e61ef5bff1be575511"
 metafile = true
 
 [[files]]
