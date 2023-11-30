@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/byg/biomepedia.json5"
+hash = "8fc519a8e6ca95a62903924e378efe098b3deeab6013b0fc6c84df71ff6a6866"
+
+[[files]]
 file = "config/forgero_settings.json"
 hash = "57def2d44d1c33c4177bbd90ae04358bcb4db9b3f2008dd5b7fb90a4784ddecf"
 
@@ -15,6 +19,10 @@ hash = "8f44726a4a6669515e0a623d100c2d50283423d8244d865343f64f11367281d0"
 [[files]]
 file = "config/mindfuldarkness-client.toml"
 hash = "b0098b576f7ab2ddaf36e8542941af4159ecbf1a590e64ad2ad20de93e06b27f"
+
+[[files]]
+file = "config/modern_industrialization.toml"
+hash = "9345badac25412f7d7a791d0daa1fdead01249b81e4bc27568ca97c3f30401ca"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
@@ -73,12 +81,40 @@ file = "config/shouldersurfing.toml"
 hash = "78b49f8ee50421a5d8bf985908096376e2fa4196c972431ad1765aee33d8b016"
 
 [[files]]
+file = "config/spiceoffabric.hjson"
+hash = "d7175f4441d279f4afec2fdb90f087d562d30e5e623250333edcbdb6baf2afb9"
+
+[[files]]
+file = "config/starterkit.json5"
+hash = "20dbdd8d77faf4294b1feb7cdd29a03dea1a31e5439ba040f1ce4f3b769499fb"
+
+[[files]]
+file = "config/starterkit/starterkit.txt"
+hash = "d0bf760d1c1d17136fc8e9cf2db05cc81b121965756de0ac9fc345bc5ff06181"
+
+[[files]]
 file = "config/tempad.json"
 hash = "98f9934353a4b1c0d9ed8863f872428869e29738cfb2da1077d10aa06eec2f69"
 
 [[files]]
 file = "config/travelersbackpack.json5"
 hash = "5e7171a4dd2907f4d36e56c0118fd48ddc6d60e89438b638cf8e19d111087f50"
+
+[[files]]
+file = "config/walk-jog-run-client.json"
+hash = "d899a63aed140e093a5e1516a378a26a1b344f13e770c1d398366bb28c49ece0"
+
+[[files]]
+file = "config/walljump.json"
+hash = "862101521ee1e0059a9e9427d84a81c2727a21524bc320dbbec0e7fdad84a47e"
+
+[[files]]
+file = "config/wondrouswilds.json"
+hash = "0d8b005beaf3a8be09fb8160e0b23b695ed4e260cde8b02af232edef95d34e45"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "e4204d52308f1bb5ef6eb8dd0073f9f4b20ba53cac46d8eb892b0a8532ec1340"
 
 [[files]]
 file = "data/villagerquests/quests/farmer0x30.json"
@@ -1240,6 +1276,11 @@ hash = "cd5d85d9b0329ac465403063b4ccea9bf5f227cb4c3516a2eb93c547ea9c673f"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
+hash = "662a5cd83f476d2d8cb4372f1ef2b1fd422aded4348ebfd22680335858e2ae8a"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "f957a63c038ef5bd0f12a34aff71fddd4376d5901571657123325c8a76ad5219"
 metafile = true
@@ -2280,6 +2321,11 @@ metafile = true
 [[files]]
 file = "mods/scriptor-magicae.pw.toml"
 hash = "1ef1c9ba5c3b9a8366f05e933085e81ce3efd18b367892a26d8aba2f7a0384f3"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "a5e126f6ad485daa023fd7c96dda1ed42b30209b94162497422e71e702394fd8"
 metafile = true
 
 [[files]]
