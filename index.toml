@@ -2818,11 +2818,6 @@ hash = "b327b2db1fa73f5357c7af7bcbb9442209411fef4500312f55c96ad18042a9c2"
 metafile = true
 
 [[files]]
-file = "mods/trank-o-mat.pw.toml"
-hash = "27c515dea05384f722a0241835de5b0a63b45e80ad4c9455cbd9ba9444e70795"
-metafile = true
-
-[[files]]
 file = "mods/transmog.pw.toml"
 hash = "593eb359699d47ab057298901be7d797a2911f88fb15d387f1f8b55baac8cd07"
 metafile = true
