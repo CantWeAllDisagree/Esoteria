@@ -1,0 +1,13 @@
+name = "Coal Explosion"
+filename = "coalexplosion-fabric-1.19.2-1.6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ed857188385194b77b96a93704714ee354517b24"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4395955
+project-id = 410164

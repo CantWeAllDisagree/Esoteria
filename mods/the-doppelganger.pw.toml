@@ -1,0 +1,13 @@
+name = "The Doppelganger"
+filename = "doppelganger_V3.2_1.19.2_Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e632863418f8788818e66ab6a0ce3c0936a2b681"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4743276
+project-id = 903515

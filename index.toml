@@ -822,6 +822,11 @@ hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
+file = "mods/coal-explosion.pw.toml"
+hash = "1614dffe3108783cf74395b9fbccd4b1083bab289551973a23c05f0587bf8e5a"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "edde596d1a457688a41f5cc7816e20e62fee544382ac8ea623cd3b424fc2d4a9"
 metafile = true
@@ -2271,6 +2276,11 @@ hash = "901aa05b32d458cebf7957fc068d726a56c0da1a8cdc4cdfe0a22cb95ce1056c"
 metafile = true
 
 [[files]]
+file = "mods/potion-vapes.pw.toml"
+hash = "d6e398a5651404ae8c02088f6b253e678caa5c52643137281d2aac091ad5602c"
+metafile = true
+
+[[files]]
 file = "mods/powah.pw.toml"
 hash = "f8ff6d00aa5d5443590feeebadc80c410832a09ee8f38c5f415acbc50100b4e0"
 metafile = true
@@ -2743,6 +2753,11 @@ hash = "763ea92793d198edf25a1c7c12e12f32dad4a3eed305b07e3f43e5f5d341063c"
 metafile = true
 
 [[files]]
+file = "mods/the-doppelganger.pw.toml"
+hash = "191b72845ba9e58bcc437b6eff085cfcb2c9c1779a9a2e955cff4bb75564a678"
+metafile = true
+
+[[files]]
 file = "mods/the-ghast-cow.pw.toml"
 hash = "21935c3d4b39dcf7fc5fa15fe0d92e8817194f226a8b077208eb06420ede4b3a"
 metafile = true
@@ -2825,6 +2840,11 @@ metafile = true
 [[files]]
 file = "mods/totally-lit.pw.toml"
 hash = "b327b2db1fa73f5357c7af7bcbb9442209411fef4500312f55c96ad18042a9c2"
+metafile = true
+
+[[files]]
+file = "mods/trank-o-mat.pw.toml"
+hash = "27c515dea05384f722a0241835de5b0a63b45e80ad4c9455cbd9ba9444e70795"
 metafile = true
 
 [[files]]

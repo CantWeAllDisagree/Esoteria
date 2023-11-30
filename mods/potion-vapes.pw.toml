@@ -1,0 +1,13 @@
+name = "Potion Vapes"
+filename = "potionvapes-1.0.2-1.19.2-FABRIC.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "abdf6d39a88521278a78285b7aa00d5eb54c83c4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4901901
+project-id = 923513
