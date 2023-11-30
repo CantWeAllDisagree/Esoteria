@@ -2858,11 +2858,6 @@ hash = "a55d2e620f362673051018738ee9a05c3d863260e6e7c1eae0edd052bc501192"
 metafile = true
 
 [[files]]
-file = "mods/wall-jump-unofficial-arch.pw.toml"
-hash = "fb39281775b35cfbfd03fde15f337110e28b021ad010a836ac954b91f29f7a97"
-metafile = true
-
-[[files]]
 file = "mods/whats-that-slot.pw.toml"
 hash = "2d341ee5e3436ded38ca36262832bf44f4fb4df4ecb4ca9c3b3e21f24521be40"
 metafile = true
