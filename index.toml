@@ -3020,11 +3020,6 @@ hash = "2d341ee5e3436ded38ca36262832bf44f4fb4df4ecb4ca9c3b3e21f24521be40"
 metafile = true
 
 [[files]]
-file = "mods/where-is-it.pw.toml"
-hash = "9a04610015be28c1a16f1b9141ededdf05081d9cf2f9502f02ddf5538bf72eac"
-metafile = true
-
-[[files]]
 file = "mods/whisperwoods.pw.toml"
 hash = "8b733738c3b63eef68df0dc08a0b0517dc7d14acf45d6a00c8cd1faedfbccd05"
 metafile = true
