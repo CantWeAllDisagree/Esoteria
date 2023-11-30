@@ -56,22 +56,22 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/ctov-wizards-compat.pw.toml"
-hash = "569e82e81410b5dfc9205b0b1f02da4153c10ce1ce84244b6e1de1e24b075e9c"
+hash = "3a0f176aea45106028a87258f89effc710c016fbb03c71a0de3c18355ecf2a04"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/more-mobs.pw.toml"
-hash = "fca66ea5ab280a90fce7fd62918ec714c2ecca9bbc84d271464467bae50cc6a3"
+hash = "11b5a240f69a7387cf00f1067db24f5279c0ad15acacd2d4e12952b00d5b663c"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/remove-terralith-intro-message.pw.toml"
-hash = "5c1c56e92403716241db0dc4cce13ca9a9a4fc3afe3bbae5c17e36d53d607328"
+hash = "352bbd75887df2d8c2c181255a27d6aebc78dd52ee867c85a317a4e2b83a49fd"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/spawn-animations.pw.toml"
-hash = "6d906272ecb09b86ecd931c21a37a333623b9d911563437d2329238f96eb8eda"
+hash = "d9ca92edf4a87f33fc762c5c4de4dd81b0ed2f398a68e522dc2c1e537c5db583"
 metafile = true
 
 [[files]]
@@ -587,6 +587,11 @@ hash = "80084941067856fd4758c91fa05aad359f5d1b18991dc58cbf501c8ad921c2b7"
 metafile = true
 
 [[files]]
+file = "mods/better-lily-pads.pw.toml"
+hash = "1f0509c21de199fd0d6e35bae6c1aabbcf7e91573bce075a211c6316d2dbf2d5"
+metafile = true
+
+[[files]]
 file = "mods/better-mineshaft.pw.toml"
 hash = "272c73dbcfa62ae56f804f9a38832a36b6f0e4bb1286f8d545babd963d650cec"
 metafile = true
@@ -697,6 +702,11 @@ hash = "87f339c783840fc692ce681b878bf683bee38b5ff5388a4151b5c14b9ecfd8aa"
 metafile = true
 
 [[files]]
+file = "mods/carpeted-stairs.pw.toml"
+hash = "d71eb6da356995eac7d2e13b396ecb0df92c8b5ac53bc8ef339267fbedbfe723"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "4b68b30e6d461076e9e2e75de9a01782653c02e8fd05cb0222bea6123df36433"
 metafile = true
@@ -753,12 +763,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+hash = "d1dc8ac9ea0e5aed978c464ff34e460924dfc44d518eece4abbbfb9a5d49abf8"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "f065f8d023815a013aeda771bdcd09145bc6a56b4edaadd44e7957eb67ee248e"
+hash = "edde596d1a457688a41f5cc7816e20e62fee544382ac8ea623cd3b424fc2d4a9"
 metafile = true
 
 [[files]]
@@ -1152,7 +1162,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-groups.pw.toml"
-hash = "c4acce96b694ee17e48192d578b2674ef901b3f63a51b2a9066209b962de5b19"
+hash = "e8a199e836258ebe987d3ab76cfcc1e09c1249d1edc96cd00332b5867c1c7739"
 metafile = true
 
 [[files]]
@@ -1322,7 +1332,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "f957a63c038ef5bd0f12a34aff71fddd4376d5901571657123325c8a76ad5219"
+hash = "4aea61b0c79993b88c357dea2a3f5fdc634a49ca028d60fb8b10fd4f36580355"
 metafile = true
 
 [[files]]
@@ -1337,7 +1347,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-fabric.pw.toml"
-hash = "7c89c501b72635ddc3b3506fb407783392f6448a8e997bf34d3dbcd116edcef9"
+hash = "1a5ecb8d54e86e7c9215bc881eb0c090aa2ebef39eff8ecd87c3abbbcd23b98a"
 metafile = true
 
 [[files]]
@@ -1552,7 +1562,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-alchemy.pw.toml"
-hash = "462a67093d1c1b4b7ef9ba31d29ef6ea4fcd6280ab7f5f627315c7618d8a804b"
+hash = "adc58dda0b15f2d1b1139b8a6191a0ea3079a3bb8ab8c41ac5bd7f7f465895d4"
 metafile = true
 
 [[files]]
@@ -1866,6 +1876,11 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "92e056e29d0838a3b3a76fb1797fbad1d6629d8d578a338cf6768932bd3e6018"
+metafile = true
+
+[[files]]
 file = "mods/mob-scarecrows.pw.toml"
 hash = "633990f96e15b07dab59b895b36b9b8250b0c6d28791ba3f087152331841a91c"
 metafile = true
@@ -1938,6 +1953,11 @@ metafile = true
 [[files]]
 file = "mods/multibeds.pw.toml"
 hash = "12a52f7435f88fed6595e59b4614cac110deabd4e99e0301d3aaf94c67ca2791"
+metafile = true
+
+[[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "2ab624767380e3951271e8a6d6fb29750539f382df7a46641bc844aeff0cdde7"
 metafile = true
 
 [[files]]
@@ -2275,6 +2295,11 @@ hash = "afedc35545eb5be295caee5e0cac50de9941e4487a1a78d54ead98cc69110843"
 metafile = true
 
 [[files]]
+file = "mods/realistic-bees.pw.toml"
+hash = "4662d7b3050b98f4ebf300c087a4d073312a87ad06714c17bdc3abe936d7d50a"
+metafile = true
+
+[[files]]
 file = "mods/realisticsleepfabric.pw.toml"
 hash = "94e7c319b610d5381bfc27f9765841b31665e9d9d7e34d4ac25e19503ce6168f"
 metafile = true
@@ -2420,7 +2445,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "69dea8b38b3d7f722a1207f396731ccc122b9f6842d4461865575a64f5d19b12"
+hash = "423b786e8b99855898f311934cf8bb3efd89254a70338228d940c4a895a0e46c"
 metafile = true
 
 [[files]]
@@ -2430,7 +2455,7 @@ metafile = true
 
 [[files]]
 file = "mods/sleep-tight.pw.toml"
-hash = "b112bf51631cfdd9fbad4f811a43a8592464ec699f87fd950bc4e2b791251b02"
+hash = "57a37706652bfb7250557582f3297341cac4d94caf421f195155108295a71ada"
 metafile = true
 
 [[files]]
@@ -2461,6 +2486,11 @@ metafile = true
 [[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
 hash = "3dbe2632f9977590159521ab1e98dc46a6bfc6663d511014041895e606941917"
+metafile = true
+
+[[files]]
+file = "mods/snowy-spirit.pw.toml"
+hash = "6d7c0adbadc443f61c10763ef2da165d4f68652e6319cb661b333830d326b903"
 metafile = true
 
 [[files]]
@@ -2639,7 +2669,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "cbea095946caed927d50108029bf1a0117e60e8d869a37dbbea7a60b391d5106"
+hash = "763ea92793d198edf25a1c7c12e12f32dad4a3eed305b07e3f43e5f5d341063c"
 metafile = true
 
 [[files]]
@@ -2844,7 +2874,7 @@ metafile = true
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
-hash = "4a63451ef8d020713651dd9d364772595b0124138511a1a39c9b8c8e72e3c0c0"
+hash = "eb2d4ba8d3697f98563207d588b9271e030a9b8ff5f6ab0d12ebb0019b1ee1a0"
 metafile = true
 
 [[files]]
@@ -2914,7 +2944,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "b304d1caaaef47f339aa1dbeced0d657bc45c40e76da714956963638731a25c6"
+hash = "38044c12e15cddd4615910f0ea59b17a95a6791f6c7504189467ff90b0cd3b23"
 metafile = true
 
 [[files]]
