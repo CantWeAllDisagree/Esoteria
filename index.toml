@@ -678,7 +678,7 @@ metafile = true
 
 [[files]]
 file = "mods/bouncy-life.pw.toml"
-hash = "cfa0543e0c992a6176ceb756cced79df277b7b177f3ab265ef0559f01822f854"
+hash = "53e3aac1b173149fb5f4d73b49faa7333999a5783e75f14f411b7bcb61c847d7"
 metafile = true
 
 [[files]]
@@ -1423,6 +1423,11 @@ metafile = true
 [[files]]
 file = "mods/guarding.pw.toml"
 hash = "16a29c493ce95cbcfdfa5e29d9962d9a56cf21507e20156b1d452f1a77cfc271"
+metafile = true
+
+[[files]]
+file = "mods/hand-over-your-items.pw.toml"
+hash = "d6885efa6317b61410fce84900ffba3b371aa82fd82006cd45a244ca4807e5b8"
 metafile = true
 
 [[files]]
@@ -2213,6 +2218,11 @@ metafile = true
 [[files]]
 file = "mods/purpeille.pw.toml"
 hash = "42a6c5ea3129bd1239d85bcaabde70d458528aa802e59fa3c2303068419ea013"
+metafile = true
+
+[[files]]
+file = "mods/push-to-craft.pw.toml"
+hash = "e4e29b08c390ff300206de8d1ea7e0a7c3df7f14f03e2d072303bd717949d048"
 metafile = true
 
 [[files]]
