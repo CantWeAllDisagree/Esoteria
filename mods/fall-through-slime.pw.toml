@@ -1,0 +1,13 @@
+name = "Fall Through Slime"
+filename = "fallthroughslime-1.19.2-3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nLMuJxdy/versions/7Wgcyh6T/fallthroughslime-1.19.2-3.1.jar"
+hash-format = "sha1"
+hash = "3c7a758bf1da55316e207efeefef0c755eaaba43"
+
+[update]
+[update.modrinth]
+mod-id = "nLMuJxdy"
+version = "7Wgcyh6T"

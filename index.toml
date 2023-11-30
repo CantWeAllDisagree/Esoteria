@@ -1266,6 +1266,11 @@ hash = "4099ad89926d67f972cab40312beab87a5aeacdcbecd011ade4c11af14fab033"
 metafile = true
 
 [[files]]
+file = "mods/fall-through-slime.pw.toml"
+hash = "f182deced4156ca30d107c06ca29a8b26f9852402319beae81e45ce428f776e6"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "423581d9738b23798456b7ba021698355ef8f03cef93d8c1266102a227d9a200"
 metafile = true
@@ -1703,6 +1708,11 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "b3501a7f76745c70f319a487ab71d553e43558c732890daa1abed779e194d09c"
+metafile = true
+
+[[files]]
+file = "mods/luna-slimes.pw.toml"
+hash = "a469e60b67c502d2ab6945f5c49792e8083ca465c819f1b5c689b438123d7466"
 metafile = true
 
 [[files]]
@@ -2461,6 +2471,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/solid_mobs.pw.toml"
+hash = "fd1b0e830cce072970f8d561cc92f692ac22c38b7d22e92350fb61b9d939ec46"
 metafile = true
 
 [[files]]
