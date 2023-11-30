@@ -17,8 +17,36 @@ file = "config/almostunified/unify.json"
 hash = "33015b21531c1fa96759395232cd0465a036935e40954b418254c8d31f8cd0cd"
 
 [[files]]
+file = "config/backslot.json5"
+hash = "680d11fcbf8c3a70da94621d9f8945e86c3b2f1956016a6619ab7216548a466d"
+
+[[files]]
+file = "config/betterthirdperson.json5"
+hash = "99ef4f77e3761dfeee2d9d7b3004f60b42ed8b67082bf90a146b0bd4e73b4562"
+
+[[files]]
 file = "config/byg/biomepedia.json5"
 hash = "8fc519a8e6ca95a62903924e378efe098b3deeab6013b0fc6c84df71ff6a6866"
+
+[[files]]
+file = "config/combatroll/client.json5"
+hash = "ffca3f14c14d4042cc2aed4f0d69d152be8ca91e008f4d51c4c914cdb462676f"
+
+[[files]]
+file = "config/combatroll/enchantments.json"
+hash = "b807ca9ebe5ca5e45c8367b08cb97a08aa73181b66da4ab7c9f92e02200ca01e"
+
+[[files]]
+file = "config/combatroll/hud_config.json"
+hash = "4e8a782658523703251e794c37aa81d44a54f01935a4e783dc95dc3d6349749f"
+
+[[files]]
+file = "config/combatroll/server.json5"
+hash = "e97fdce9c30a2945067d76aa001222363d3a428de62296604738cfa4434dff8b"
+
+[[files]]
+file = "config/doodads.toml"
+hash = "83e0a3d71f740535399c0abba163685065c12b002013afd706e29ffadbd5b209"
 
 [[files]]
 file = "config/forgero_settings.json"
@@ -38,7 +66,11 @@ hash = "b0098b576f7ab2ddaf36e8542941af4159ecbf1a590e64ad2ad20de93e06b27f"
 
 [[files]]
 file = "config/modern_industrialization.toml"
-hash = "9345badac25412f7d7a791d0daa1fdead01249b81e4bc27568ca97c3f30401ca"
+hash = "b75efb30fc9533f67206649dd1f874283a1beb97af64c6012845088d4f67ca69"
+
+[[files]]
+file = "config/paperdoll-client.toml"
+hash = "3c479c664501f5b12bdedadaaa57353495c6f42b77d7ab5590ae86304833c362"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
@@ -1133,6 +1165,11 @@ hash = "6d0a909a61cc3c26615f171fab6fd520a56168b218d7e094c1b5077ff91168f0"
 [[files]]
 file = "mods/earlystage.pw.toml"
 hash = "2d9208211cc9cf3731779a9d2ab5203b16aea6657b628518da97c97ea02de702"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "4c272f8e64788341090015050f2a4062d0944958f3479dcbbfa7639676f1053e"
 metafile = true
 
 [[files]]

@@ -1,4 +1,4 @@
-blacklistedOres = []
+blacklistedOres = ["nickel", "salt", "tin"]
 enableNoEmiMessage = true
 spawnWithGuideBook = false
 respawnWithGuideBook = false
