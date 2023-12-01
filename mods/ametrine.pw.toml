@@ -1,0 +1,13 @@
+name = "Ametrine"
+filename = "Ametrine-1.0-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y4ISMzDa/versions/zcdE1u3E/Ametrine-1.0-1.19.2.jar"
+hash-format = "sha1"
+hash = "292fa932f891db10bf2dc9ddd97a3afb5b1bc1f3"
+
+[update]
+[update.modrinth]
+mod-id = "Y4ISMzDa"
+version = "zcdE1u3E"

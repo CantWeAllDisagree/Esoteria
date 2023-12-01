@@ -1,0 +1,13 @@
+name = "Back To Bed"
+filename = "BackToBed-Fabric-1.19-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZDK6mUGM/versions/XDgHN7nT/BackToBed-Fabric-1.19-1.1.0.jar"
+hash-format = "sha1"
+hash = "fd9c0f96e3bfa4fdafd72fc3f71a4c717af583fd"
+
+[update]
+[update.modrinth]
+mod-id = "ZDK6mUGM"
+version = "XDgHN7nT"

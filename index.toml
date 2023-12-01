@@ -113,6 +113,11 @@ hash = "3a0f176aea45106028a87258f89effc710c016fbb03c71a0de3c18355ecf2a04"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/enigma-origin.pw.toml"
+hash = "54b024b0d230ba9cf66861a7b62e0f1152b301d4b0092d0f9d4a55859a226bd3"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/hopo-better-ruined-portals.pw.toml"
 hash = "6ca4d9864b2d3250297da7c17f86156d290eda102efc15c9ab31c3016fb06d18"
 metafile = true
@@ -130,6 +135,11 @@ metafile = true
 [[files]]
 file = "config/paxi/datapacks/spawn-animations.pw.toml"
 hash = "d9ca92edf4a87f33fc762c5c4de4dd81b0ed2f398a68e522dc2c1e537c5db583"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/stargazer-origin.pw.toml"
+hash = "8ef914c5c5d3672d9d89e2835f646579bffdaf66d9290909712da522c14d7fe3"
 metafile = true
 
 [[files]]
@@ -154,6 +164,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/incendium-optional-resourcepack.pw.toml"
 hash = "ef7eeaf34f1110b22e75a1bcd43ccb9c23bc1ffadf5952b222912d900a535bf8"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/stargazer-origin-resources.pw.toml"
+hash = "2c209ec4acd69557d89e0039f5b48e60108fddeee0bacfb028de4bcad5bb9fa7"
 metafile = true
 
 [[files]]
@@ -323,6 +338,11 @@ hash = "97df5a596e19491ca3381fcfc15e03415eb49595464cc2e5f10f2dce53116537"
 metafile = true
 
 [[files]]
+file = "mods/ametrine.pw.toml"
+hash = "84e5c2b19671b649515e91d234e58cf731bddaa1bf99dfc432b3d5a372d8a258"
+metafile = true
+
+[[files]]
 file = "mods/angling.pw.toml"
 hash = "57be390987d839ca4b90228345fb683a1f3e4ae132ecc6d37ac38cbb0f8a0b74"
 metafile = true
@@ -383,6 +403,11 @@ hash = "bf2adb4aeefb2c2f68002ff2f74e38c2a1e26b57c65977f12c68ae0a1c7bef0b"
 metafile = true
 
 [[files]]
+file = "mods/aspects.pw.toml"
+hash = "9776bb47c8664b973e3f396f9db7870ddc558f268b965bd06bd4273ddc277ed2"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "ad4d2ce6ff45cd1a432cd65ab924e9d0c58810f9f31dc1e4f9e91335654ee29f"
 metafile = true
@@ -395,6 +420,11 @@ metafile = true
 [[files]]
 file = "mods/axolotl-bucket-fix.pw.toml"
 hash = "a7558893b89df6b3e67eac25ec1a1c3cad2e6bb43ecb1fbdde34275fdd232ad6"
+metafile = true
+
+[[files]]
+file = "mods/back-to-bed.pw.toml"
+hash = "70c17358ca004b1bd0a5d4aaab1bfd2970de382e947a283a7aec9a3341c403d7"
 metafile = true
 
 [[files]]
@@ -648,6 +678,11 @@ hash = "b52cd1f4295d855882a41b5f164385e2ba460d7766a2e2e6183ef56c00c824ab"
 metafile = true
 
 [[files]]
+file = "mods/cinderscapes.pw.toml"
+hash = "60c2885628ebc6e6dcbffdf055a3ea2759ef4fac9c19aa69253d853e86277158"
+metafile = true
+
+[[files]]
 file = "mods/cleardespawn.pw.toml"
 hash = "a1b43ad6bb503bbe88b9047f28a861c2d5425a4eb3c814c32a96e7aa388ea137"
 metafile = true
@@ -780,6 +815,11 @@ metafile = true
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "3797350f2eda3aebd2aca1d065c47bb9052e8b34a5f183088c20f2acb255febe"
+metafile = true
+
+[[files]]
+file = "mods/create-origins.pw.toml"
+hash = "073adf5044a66982ac0fb424647967ac5731d798f7b856213d10597231a951f0"
 metafile = true
 
 [[files]]
@@ -1102,6 +1142,11 @@ hash = "ba9d24c505acf5a4d14c7e23e3e4eccc39a4cc3f96bfe52375e08efbd4dda6a9"
 metafile = true
 
 [[files]]
+file = "mods/esoteric-origins.pw.toml"
+hash = "071fc87edb9198fbb05ae1324b17fb4f86bc5e3f9dbe1c036cde1d068c8c7936"
+metafile = true
+
+[[files]]
 file = "mods/essential-commands.pw.toml"
 hash = "d7c62098ea13919a210eefeddac3e52005c59aa2e088473c83d800bca6e0df39"
 metafile = true
@@ -1264,6 +1309,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-fabric.pw.toml"
 hash = "191e7106a3915d5946487cbf827befceed9896ea937a99a12a73a702c31a707d"
+metafile = true
+
+[[files]]
+file = "mods/fungal-mage.pw.toml"
+hash = "b3292dded07371166b9eb799478f802d396861d9c72d1e2e81a954b738155ac7"
 metafile = true
 
 [[files]]
@@ -1917,6 +1967,11 @@ hash = "df5d311dc2b08556afa338e43b69abb71448644375dd892a3dc97d455f28203c"
 metafile = true
 
 [[files]]
+file = "mods/neepmeat.pw.toml"
+hash = "81bc04bb2a8b2e01ec957df2a2d793c406ff5cc47a3e3b9c5e7b161285be7609"
+metafile = true
+
+[[files]]
 file = "mods/nerb.pw.toml"
 hash = "b13ff58ccfb7902597e9cf8b9b9674f1ff6080b8eb6cd47f53334e1f0fccb38d"
 metafile = true
@@ -2019,6 +2074,11 @@ metafile = true
 [[files]]
 file = "mods/origins.pw.toml"
 hash = "862b429a623762ef0469eb2a409b9450a9b70071cf9bffabca654b97f7528424"
+metafile = true
+
+[[files]]
+file = "mods/originstweaks.pw.toml"
+hash = "e2fa4fc9dbd40acdfdff8a78a26e052752c3c40ea9fb633b4fea142e72bf805a"
 metafile = true
 
 [[files]]
@@ -2457,6 +2517,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "51a859be42055c2db7ea8c3be65189dafdedce167944ab3afe5fd37228d1ecfc"
+metafile = true
+
+[[files]]
+file = "mods/spectrum-jetpacks.pw.toml"
+hash = "a27fd5c295fd8eab9e895daca14387327d77c068e98e16b8fcc56f5d3dac649f"
 metafile = true
 
 [[files]]

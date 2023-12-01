@@ -1,0 +1,13 @@
+name = "Fungal Mage"
+filename = "fungal-mage-V2.9.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9D5M9ypC/versions/tA1h3Jsc/fungal-mage-V2.9.6.jar"
+hash-format = "sha1"
+hash = "710fb31832796e0e9e5b39de182c720a8cb429b9"
+
+[update]
+[update.modrinth]
+mod-id = "9D5M9ypC"
+version = "tA1h3Jsc"

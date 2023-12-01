@@ -1,0 +1,13 @@
+name = "Origins: Stargazer (Resources)"
+filename = "Stargazer (1.2.1) [Resources].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/z8OqPrIv/versions/k438dgIu/Stargazer%20%281.2.1%29%20%5BResources%5D.zip"
+hash-format = "sha1"
+hash = "3edfcd296c34537f0d658057bbf6ab91845be307"
+
+[update]
+[update.modrinth]
+mod-id = "z8OqPrIv"
+version = "k438dgIu"

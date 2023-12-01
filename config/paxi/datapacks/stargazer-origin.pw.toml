@@ -1,0 +1,13 @@
+name = "Origins: Stargazer"
+filename = "Stargazer (2.3.2).zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1gmmcEWS/versions/keIah6Va/Stargazer%20%282.3.2%29.zip"
+hash-format = "sha1"
+hash = "cce15d5f155d1c90c1718b365a4ac0bc7969064c"
+
+[update]
+[update.modrinth]
+mod-id = "1gmmcEWS"
+version = "keIah6Va"
