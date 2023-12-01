@@ -608,6 +608,11 @@ hash = "59728592596adaba0664857ea87de5bb446c7f5d1e62f5f10d7f7453e42cd0be"
 metafile = true
 
 [[files]]
+file = "mods/brazier.pw.toml"
+hash = "ffccc75afbf3c174bc5232afe111fbf28862fb252be7feb33a09e9707b14d868"
+metafile = true
+
+[[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "b657f098bc6bdf2c7ee67f95bf6cbf7e39cf4db7c6b8fb6fd432b9471c53ec1a"
 metafile = true
@@ -848,6 +853,11 @@ hash = "4624545fb9b7d701566f0766e803835fdf4d3a0471bf34fbca9ccb72a7290f29"
 metafile = true
 
 [[files]]
+file = "mods/croparia.pw.toml"
+hash = "79c335aa7e03ebacb4850da22f0aa81cd6e244b3665a1976891b92fe785e9f8f"
+metafile = true
+
+[[files]]
 file = "mods/croptopia.pw.toml"
 hash = "3318c70374f860b9b2ab3699621a7ace4a199dd63f06d3b5c6892067ec5f269d"
 metafile = true
@@ -1074,6 +1084,11 @@ metafile = true
 [[files]]
 file = "mods/emitrades.pw.toml"
 hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
+metafile = true
+
+[[files]]
+file = "mods/enchantsmith.pw.toml"
+hash = "444d43b1a32b8a1ed363ff6d1f13426abd9396addbe7c5b1520addc961c758c9"
 metafile = true
 
 [[files]]
@@ -1512,6 +1527,11 @@ hash = "dfbdb89a9b842c190339d6d60a6a2e812e3d3bdcd986610e3b740ec478e4dcb0"
 metafile = true
 
 [[files]]
+file = "mods/iron-bookshelves.pw.toml"
+hash = "bf5ffbd0b2cc5bdbb483d6c96e44a1364bacfd681b621d4fbe9ed4e92bbc1858"
+metafile = true
+
+[[files]]
 file = "mods/it-takes-a-pillage-fabric.pw.toml"
 hash = "08469edc3728f89e436047f4016adb687ab14e2ad6b4f2752ad58b0a9b21ba62"
 metafile = true
@@ -1557,8 +1577,28 @@ hash = "15621be8230cccbabbe2beb4694b1e26d0f7bf380db23aa12b056104327e149d"
 metafile = true
 
 [[files]]
+file = "mods/jump-over-fences.pw.toml"
+hash = "f2cd2fa726166f7999637329a561a9652f8818cda07c368edf57096898fb1c40"
+metafile = true
+
+[[files]]
+file = "mods/just-hammers.pw.toml"
+hash = "43bbddeac603e76bfeb04f09a523592372a0e39ac6cbbc4b8e38cc005e03ec8e"
+metafile = true
+
+[[files]]
+file = "mods/just-more-cakes.pw.toml"
+hash = "e58e4601ed01398a62f2fa0a4bab519ee51ef23f87e8842521cbc006a3ac78f3"
+metafile = true
+
+[[files]]
 file = "mods/kambrik.pw.toml"
 hash = "69db7a4aa6bf2136864de6a5109c3549d589f11005e9663c6b4d2b6947e6d7c3"
+metafile = true
+
+[[files]]
+file = "mods/kawa`s-pedestals.pw.toml"
+hash = "3212dd8113790bdb9c76a34940266e42c4d9f01a34505aff5b78dfcc43e96e17"
 metafile = true
 
 [[files]]
@@ -2585,6 +2625,11 @@ hash = "bca2f1cf90c4954220e9d533ed9bdfd1ff1ba946fadd416d06b01d19514c528f"
 metafile = true
 
 [[files]]
+file = "mods/stemaria.pw.toml"
+hash = "29db130009eeeb39e29da10eb4be591eff66792e23ba86f5654cee3dc534302c"
+metafile = true
+
+[[files]]
 file = "mods/stoneholm.pw.toml"
 hash = "a99056e0e39b3e1ad57294363b5bdf26f54bb92fe6a9b10c17583e359401ec5a"
 metafile = true
@@ -2731,6 +2776,11 @@ metafile = true
 [[files]]
 file = "mods/thorium.pw.toml"
 hash = "f76293001a405fa99903869bc8d5f3caa2976f0179513f73f59fc82dfbce9f72"
+metafile = true
+
+[[files]]
+file = "mods/tieredz.pw.toml"
+hash = "5d8ea136dd63020013613da9d1517f554ebeb41a40cfbde658ef0ed45628f56f"
 metafile = true
 
 [[files]]

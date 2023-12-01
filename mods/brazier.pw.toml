@@ -1,0 +1,13 @@
+name = "Brazier"
+filename = "brazier-fabric-5.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5okEW6TG/versions/lKPhpQyx/brazier-fabric-5.1.1.jar"
+hash-format = "sha1"
+hash = "9829396a7f638bb2a15342d52ca00b7d083be6cc"
+
+[update]
+[update.modrinth]
+mod-id = "5okEW6TG"
+version = "lKPhpQyx"

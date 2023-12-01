@@ -1,0 +1,13 @@
+name = "Kawa`s Pedestals"
+filename = "1.19.2-testing.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gZQ48cDO/versions/T0HTLH86/1.19.2-testing.jar"
+hash-format = "sha1"
+hash = "53095a6a0d82c1f7cae4a0529badd81d283a1425"
+
+[update]
+[update.modrinth]
+mod-id = "gZQ48cDO"
+version = "T0HTLH86"
