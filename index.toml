@@ -69,6 +69,14 @@ file = "config/modern_industrialization.toml"
 hash = "b75efb30fc9533f67206649dd1f874283a1beb97af64c6012845088d4f67ca69"
 
 [[files]]
+file = "config/mythicmetals.json5"
+hash = "82e2eeccd10c5ce3fc4c4ad24b69aada26069736012e67398b7e16c54c6a5df9"
+
+[[files]]
+file = "config/oregrowth-common.toml"
+hash = "cd1fc7db62c9ab89854d774aa9e7b8a089331b1c201f5ade6649507c38a20545"
+
+[[files]]
 file = "config/paperdoll-client.toml"
 hash = "3c479c664501f5b12bdedadaaa57353495c6f42b77d7ab5590ae86304833c362"
 
