@@ -69,6 +69,14 @@ file = "config/modern_industrialization.toml"
 hash = "b75efb30fc9533f67206649dd1f874283a1beb97af64c6012845088d4f67ca69"
 
 [[files]]
+file = "config/multibeds/client.json5"
+hash = "a76235f15e52e47b54b62acc4c09957c9d3f25256c68a3ea1e1f52b25cc76e16"
+
+[[files]]
+file = "config/multibeds/common.json5"
+hash = "eb9f119354f0eb365491ce1714e3775b3aaa19bc90f8bf3c2026659a7a702bb0"
+
+[[files]]
 file = "config/mythicmetals.json5"
 hash = "82e2eeccd10c5ce3fc4c4ad24b69aada26069736012e67398b7e16c54c6a5df9"
 
@@ -2086,6 +2094,11 @@ metafile = true
 [[files]]
 file = "mods/pettable.pw.toml"
 hash = "43f11eb7babcc05358ac4e1c4148776ee7fe5c224dc6d92ef7045649c799cbb5"
+metafile = true
+
+[[files]]
+file = "mods/philips-ruins.pw.toml"
+hash = "2ce0505080b482361f7b597e0aa34db9b95c64e372323fa1412d619a9d151ee4"
 metafile = true
 
 [[files]]
