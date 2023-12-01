@@ -2803,11 +2803,6 @@ hash = "be34bd5471798bf4920021365567c05bc89b742b0e47d8ba8bd53049a60ee9ef"
 metafile = true
 
 [[files]]
-file = "mods/villagerquests.pw.toml"
-hash = "9d756e35d6faf417849729d2417d30f0fe5689d2affbf37ce3c14db8e690be04"
-metafile = true
-
-[[files]]
 file = "mods/vinery.pw.toml"
 hash = "36649503e524c59d80c069fe2786e1e446032c02fb5b8d4e83309c2edee2870c"
 metafile = true
