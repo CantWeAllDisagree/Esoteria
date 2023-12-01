@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/akashic_tome.json5"
+hash = "ce1580bd770124efcb6b2a0ebbf887eb0d4aab3c2f5d8f45ec532a3dc576816f"
+
+[[files]]
 file = "config/almostunified/debug.json"
 hash = "4f1808d3941300cf6e2c53b5a37f2808a4d904e63597cd4e03a03d19e4762fef"
 
@@ -29,6 +33,14 @@ file = "config/byg/biomepedia.json5"
 hash = "8fc519a8e6ca95a62903924e378efe098b3deeab6013b0fc6c84df71ff6a6866"
 
 [[files]]
+file = "config/chiselsandbits-server.json"
+hash = "8bc03a071fbb2bef7e21730fe434965998d9a919cc870d07aef1c4553b9aaebb"
+
+[[files]]
+file = "config/coalexplosion.toml"
+hash = "41a7b997229d1ee39019a2840ecb904e75badc290a077bfaaf38b05ea74935af"
+
+[[files]]
 file = "config/combatroll/client.json5"
 hash = "ffca3f14c14d4042cc2aed4f0d69d152be8ca91e008f4d51c4c914cdb462676f"
 
@@ -43,6 +55,10 @@ hash = "4e8a782658523703251e794c37aa81d44a54f01935a4e783dc95dc3d6349749f"
 [[files]]
 file = "config/combatroll/server.json5"
 hash = "e97fdce9c30a2945067d76aa001222363d3a428de62296604738cfa4434dff8b"
+
+[[files]]
+file = "config/comforts-server.toml"
+hash = "920504460cfe62506787259362fb8829142f1898befc1b23120c9fe1b1655a4c"
 
 [[files]]
 file = "config/doodads.toml"
@@ -202,6 +218,22 @@ hash = "fe28723c87cb024526b52db503ce92a4c3e24392d005285c6467d47e7093a919"
 [[files]]
 file = "config/tempad.json"
 hash = "98f9934353a4b1c0d9ed8863f872428869e29738cfb2da1077d10aa06eec2f69"
+
+[[files]]
+file = "config/time-and-wind/config.json"
+hash = "e7c4b127821bea7eb39e2a4582962a5523bcfd103b629fb2f8e9c49fc5920845"
+
+[[files]]
+file = "config/time-and-wind/system-time-data-global.json"
+hash = "fa602b11b86341ed231a717dbb14e82ce6a6af02dfa165b206dd6339c0f8bc96"
+
+[[files]]
+file = "config/time-and-wind/system-time-data.json"
+hash = "2340a7259f1eacebc06ffc95137cf17242ffd6219441bc8fcd7a30182afde46f"
+
+[[files]]
+file = "config/time-and-wind/time-data.json"
+hash = "5446357ca325034384826beecd9127a52367823b752f508c99505c428d82c7ae"
 
 [[files]]
 file = "config/travelersbackpack.json5"
