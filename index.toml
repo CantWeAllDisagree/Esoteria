@@ -77,10 +77,6 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/datapacks/basic_village_quests.toml"
-hash = "5cc3253f487c38c6ff6b56ab5e013e075e715872e44e9e2d3255585d49c3f2e4"
-
-[[files]]
 file = "config/paxi/datapacks/better-mineshaft.pw.toml"
 hash = "8ab4c1ddb70688a4ef9a2ff6a0e3046ed9984ea24209bf1be23cdbd572cbd31d"
 metafile = true
@@ -2794,6 +2790,11 @@ metafile = true
 [[files]]
 file = "mods/victus.pw.toml"
 hash = "52a598f2d47de2b5b6a2d7739250fce2b9baf5d05fe132106ae7df902f91417c"
+metafile = true
+
+[[files]]
+file = "mods/view-distance-fix.pw.toml"
+hash = "89b25533c6a11961a4640f4f3cd1c6dbf4678e101423c1dbb02c1a6386fdc707"
 metafile = true
 
 [[files]]

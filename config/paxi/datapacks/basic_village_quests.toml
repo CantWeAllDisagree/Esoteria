@@ -1,9 +1,0 @@
-name = "Villager Quests Pack"
-filename = "basic_quest_pack.zip"
-side = "both"
-
-[download]
-url = "https://github.com/Globox1997/BasicVillagerQuests/blob/446dafb02dfffa9c3f4972d9e5310ab5f17eb51a/basic_quest_pack.zip"
-hash-format = "sha256"
-hash = "27adce4f6a57d7f6c3f8f6c1a396de2108cc5adcee68f77cf0863952e8d7321c"
-
