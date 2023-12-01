@@ -2606,11 +2606,6 @@ hash = "763ea92793d198edf25a1c7c12e12f32dad4a3eed305b07e3f43e5f5d341063c"
 metafile = true
 
 [[files]]
-file = "mods/the-doppelganger.pw.toml"
-hash = "191b72845ba9e58bcc437b6eff085cfcb2c9c1779a9a2e955cff4bb75564a678"
-metafile = true
-
-[[files]]
 file = "mods/the-ghast-cow.pw.toml"
 hash = "21935c3d4b39dcf7fc5fa15fe0d92e8817194f226a8b077208eb06420ede4b3a"
 metafile = true
