@@ -2072,6 +2072,11 @@ hash = "54b07bae6b5c2947e15ab73983fa37ff82f6eefa6a3523b36a123e5ba49023cb"
 metafile = true
 
 [[files]]
+file = "mods/origins-extra-keybinds.pw.toml"
+hash = "d74690b6b828afaca52a26c0de4afb9333224c14b816331ee26589b7300dc562"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
 hash = "862b429a623762ef0469eb2a409b9450a9b70071cf9bffabca654b97f7528424"
 metafile = true
