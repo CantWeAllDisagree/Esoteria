@@ -1,0 +1,13 @@
+name = "Fish Tanks"
+filename = "FishTank-1.0.1-1.19.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3M3QnxVe/versions/1grgydku/FishTank-1.0.1-1.19.2-fabric.jar"
+hash-format = "sha1"
+hash = "a99e8b59ef8f30f5a38882ffab4a6c64d6b44d91"
+
+[update]
+[update.modrinth]
+mod-id = "3M3QnxVe"
+version = "1grgydku"

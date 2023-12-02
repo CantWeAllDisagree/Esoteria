@@ -385,6 +385,11 @@ hash = "f989d5c9cce4f8279a63a15fea7b868c8420593a5ee2d9829c1062d751edba75"
 metafile = true
 
 [[files]]
+file = "mods/animated-armor-an-origins-addon.pw.toml"
+hash = "7ef924d17b365f726eea3b364411f40d17b9fd998d699a666393b82b94d63b55"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
@@ -1045,6 +1050,11 @@ hash = "d8a51586ed3c982870bce4d9876a550ac188ebc2263e3acc368605978df608c2"
 metafile = true
 
 [[files]]
+file = "mods/dustrial-decor-fabric.pw.toml"
+hash = "5f5aadf1e89ba5691eb37395459d96cde026c197e1c22de8289d1b798aadd90a"
+metafile = true
+
+[[files]]
 file = "mods/dyed.pw.toml"
 hash = "85bbf6ccfbe81931ab4bd0ce7096434611e7f9cef605ca5a9cd30d26cb8d4828"
 metafile = true
@@ -1304,6 +1314,11 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
+file = "mods/fish-tanks.pw.toml"
+hash = "7d276735dd0db5bf93416a0ef62dfc203a77543d1367e12322dd4c6fb25fd770"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
@@ -1326,6 +1341,11 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "461be77e2e30211cb0aa462b7fcc0c94fd27d060c77efcc0f0f9a098c2cac21b"
+metafile = true
+
+[[files]]
+file = "mods/frog-legs.pw.toml"
+hash = "e2c06755365e65f97a86b6c2344db7d7534a15aee241bdfb327d60e705b8db9d"
 metafile = true
 
 [[files]]
@@ -1531,6 +1551,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/industrial-revolution.pw.toml"
+hash = "fb7a3cd21ae04e61e5166622dbad8b0f5f85510ff7d2f09f12d5264a0539065d"
 metafile = true
 
 [[files]]
@@ -2124,6 +2149,11 @@ hash = "8241d08534a43e58a70476e15c95f56504ede4f0bc63ddc73298b33f6895da81"
 metafile = true
 
 [[files]]
+file = "mods/origins-assassin.pw.toml"
+hash = "497803dd6deb93a92e694a2f098f226a822295a9aeb4e187996d2ce0e671448c"
+metafile = true
+
+[[files]]
 file = "mods/origins-classes.pw.toml"
 hash = "6347f1b4fd8c1a92cb4c2504d352807d1ff817f1e5146156e1135a2b6f473e28"
 metafile = true
@@ -2368,11 +2398,6 @@ hash = "4662d7b3050b98f4ebf300c087a4d073312a87ad06714c17bdc3abe936d7d50a"
 metafile = true
 
 [[files]]
-file = "mods/realisticsleepfabric.pw.toml"
-hash = "7678a273afe63dd263ce21d9c05536df1a7bb532690e12ff3b54dba766094cb6"
-metafile = true
-
-[[files]]
 file = "mods/reaper.pw.toml"
 hash = "9a10b0ff87f25d4d7210b3e39b8883768bac98d3e00b5b1bbbd1e54c8c1c3821"
 metafile = true
@@ -2529,6 +2554,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "b8b05210624a4edae6cb92795f96293375259f79bfbc90c359944b2c5561171e"
+metafile = true
+
+[[files]]
+file = "mods/slime-origin-remastered.pw.toml"
+hash = "0516d6f417046ffd6ab19eba5a937a176fd7a57ce8ad34d87c60eeaa23788082"
 metafile = true
 
 [[files]]

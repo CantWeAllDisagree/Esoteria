@@ -1,0 +1,13 @@
+name = "Origins - Assassin"
+filename = "Assassin.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "330d9b3ab466769bcb05955842baacc15b53ca93"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4478938
+project-id = 847379

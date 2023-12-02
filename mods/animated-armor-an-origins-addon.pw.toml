@@ -1,0 +1,13 @@
+name = "Animated Armor - An Origins Addon"
+filename = "Animated-Armor-1.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "401acfd0def2e74f91aed3ecf086b350cbffcd01"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4411503
+project-id = 826233
