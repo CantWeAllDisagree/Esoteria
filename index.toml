@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/stargazer-origin.pw.toml"
-hash = "8ef914c5c5d3672d9d89e2835f646579bffdaf66d9290909712da522c14d7fe3"
+hash = "6dc32b04311559fb744e49dd2415c5c9edba5d6fa662772b36872421350d4b70"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/ultris.pw.toml"
-hash = "5fc8106e21be3e33e506b3a26fbc564cef215a20b80af6b3b9896868c434b123"
+hash = "767e48ae2e2e00666a90052074b963f4ac65cb0b383050d15fc7bf83e74d2e41"
 metafile = true
 
 [[files]]
@@ -556,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-underwater-ruins.pw.toml"
-hash = "0cedad6102a4d4e8325f5fc5efc75c25725892372ac7b4dadaffe6b5037db3f3"
+hash = "f12595dcd11943630ca85f6b09548d57e7f2df05e298b5d165136323926b5842"
 metafile = true
 
 [[files]]
@@ -616,7 +616,7 @@ metafile = true
 
 [[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
-hash = "ca55cf03f10f766e8c4680ab1b41e7b7645e7df87524580d3ad55a7a47fd7b0a"
+hash = "43a8e3d7546741858a97f9300fe930d175894dde7edb30bf50ee48d24b348d25"
 metafile = true
 
 [[files]]
@@ -1095,7 +1095,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "bef966a2257e40889162174c55b97a5178e8a176197ec54f6c4b484506f5bc20"
+hash = "724d5c04fd57abc26d0659e70e40a682df2d9cf7155fb36b63aa65b50b65128f"
 metafile = true
 
 [[files]]
@@ -1250,7 +1250,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d2c2ff7235ed661ed8fb82e20a6de85b147e69c4b1cf1cc9102ebf8fe102636f"
+hash = "651e82c2b53b326df742ea36e806f3003e5ad68d1177a09fbe94d9dc7e780471"
 metafile = true
 
 [[files]]
@@ -1560,7 +1560,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-alchemy.pw.toml"
-hash = "adc58dda0b15f2d1b1139b8a6191a0ea3079a3bb8ab8c41ac5bd7f7f465895d4"
+hash = "65ec01507992dc422a99a6bb13d6d5a43e0ec1c995568822dd25e9c41d7aa153"
 metafile = true
 
 [[files]]
@@ -2369,7 +2369,7 @@ metafile = true
 
 [[files]]
 file = "mods/realisticsleepfabric.pw.toml"
-hash = "94e7c319b610d5381bfc27f9765841b31665e9d9d7e34d4ac25e19503ce6168f"
+hash = "7678a273afe63dd263ce21d9c05536df1a7bb532690e12ff3b54dba766094cb6"
 metafile = true
 
 [[files]]
@@ -2972,7 +2972,7 @@ metafile = true
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
-hash = "eb2d4ba8d3697f98563207d588b9271e030a9b8ff5f6ab0d12ebb0019b1ee1a0"
+hash = "cb33aee325796cf95a6dd475710619183fcb28a655bb8cf04e0e7223bb43b8c0"
 metafile = true
 
 [[files]]
