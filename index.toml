@@ -1599,11 +1599,6 @@ hash = "08469edc3728f89e436047f4016adb687ab14e2ad6b4f2752ad58b0a9b21ba62"
 metafile = true
 
 [[files]]
-file = "mods/item-alchemy.pw.toml"
-hash = "65ec01507992dc422a99a6bb13d6d5a43e0ec1c995568822dd25e9c41d7aa153"
-metafile = true
-
-[[files]]
 file = "mods/item-borders.pw.toml"
 hash = "8d8af67b3682e79c504e52e1dc539c01107e9f8bc58d0da7eec54626d00669d5"
 metafile = true
