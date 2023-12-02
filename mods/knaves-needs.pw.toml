@@ -1,0 +1,13 @@
+name = "Knaves' Needs"
+filename = "knavesneeds-fabric-1.1.5.1+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f1ae8865c275b8b7b365386f2625291e0e95f56"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4689302
+project-id = 813527

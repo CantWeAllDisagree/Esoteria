@@ -510,6 +510,11 @@ hash = "dc2788256255373ea9ea76e4e55b118fd49796d36d92bc028a388958739d6d2a"
 metafile = true
 
 [[files]]
+file = "mods/beaconoverhaul.pw.toml"
+hash = "106eda8cef592638c91c0dea3dd310de630c8029285359ed0f7e08a09e346ad8"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "5a3dc749f4f9004a3081b8bb87d17646fa8fa5417051f44c2367fa4a20707758"
 metafile = true
@@ -1002,6 +1007,11 @@ metafile = true
 [[files]]
 file = "mods/delightful-froge.pw.toml"
 hash = "b73afcd78c08f4062c4be7e113f91764cd9fa8934f2a12f3202b43e84d3d1cda"
+metafile = true
+
+[[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "4cb6f75534df8ecf59b39ac386310af11cf1842add689b64938e30bbe9688d92"
 metafile = true
 
 [[files]]
@@ -1659,6 +1669,11 @@ hash = "19908838ccf0ca950bfd7a080efa49e5cd23374b60fe51bceaeae50dcbf892c0"
 metafile = true
 
 [[files]]
+file = "mods/knaves-needs.pw.toml"
+hash = "de970292fdc803f22c4639fe40cb67146a6db392136deb6346cf67e134a42f41"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "722a61460c6fc802c2c25fb26deb025517f2a9ae6aa53cf43b1afec2363981ce"
 metafile = true
@@ -1874,6 +1889,11 @@ hash = "e82d99dac3afc9f65a0a8c8bed68b4a660eb673bc108cf5d49b290ac865b0406"
 metafile = true
 
 [[files]]
+file = "mods/mebahels-antique-beasts.pw.toml"
+hash = "32d5de30ce0f01e12fedd09358825cda2139d0708cbaca4877162958fdd07573"
+metafile = true
+
+[[files]]
 file = "mods/mediaworks.pw.toml"
 hash = "b6e18787b194f77126104da2179079424ee48420f214e282d34e1a183c6f97ea"
 metafile = true
@@ -1921,6 +1941,11 @@ metafile = true
 [[files]]
 file = "mods/minimotd.pw.toml"
 hash = "224b831a1cdce497428441731ebbfcbf4565b53f12225f21b90a7116e8b3c1b9"
+metafile = true
+
+[[files]]
+file = "mods/miskatonic-mysteries.pw.toml"
+hash = "4fb02f187f88c7042e774630afcf19aff3d799705fd3a53d71c780fd6f8ed085"
 metafile = true
 
 [[files]]
@@ -2537,6 +2562,11 @@ hash = "f2748cc5c24ea6da2d7c69efcfef2c8d4cde0e0a38fce02cdbc43f247d5a0d34"
 metafile = true
 
 [[files]]
+file = "mods/shroom-dealers.pw.toml"
+hash = "201b51465ad0b4ceba13c655dfed417847a181f71af1a6e18a9c245f8d6a6663"
+metafile = true
+
+[[files]]
 file = "mods/sigma.pw.toml"
 hash = "2b25c0925152ef0b470df16f12484c33c3b9d5d29223ae4226dc09dbc68b3b31"
 metafile = true
@@ -2544,6 +2574,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "423b786e8b99855898f311934cf8bb3efd89254a70338228d940c4a895a0e46c"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "99a222a48e9d4fb3d0a0ba2abaf2f2637e8fbb521f48def9c43f9572856a333d"
 metafile = true
 
 [[files]]
