@@ -1,0 +1,13 @@
+name = "Fabricated Exchange"
+filename = "fabricated-exchange-0.5.3+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ee08f321fe3f4efcfe1e296258a86352c56978b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4824530
+project-id = 896828

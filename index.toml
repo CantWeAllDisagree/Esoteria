@@ -1010,11 +1010,6 @@ hash = "b73afcd78c08f4062c4be7e113f91764cd9fa8934f2a12f3202b43e84d3d1cda"
 metafile = true
 
 [[files]]
-file = "mods/dimensionaldoors.pw.toml"
-hash = "4cb6f75534df8ecf59b39ac386310af11cf1842add689b64938e30bbe9688d92"
-metafile = true
-
-[[files]]
 file = "mods/ding.pw.toml"
 hash = "ec0f3f834a3387266d9b8fe83112e4ce802ec6926f196e6b598dc1bf7e65c393"
 metafile = true
@@ -1281,6 +1276,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-simple-animated-guns.pw.toml"
 hash = "5bb7b21a6cb6b24ace31ffa9f13107e40bdc4f6d28932b6f892699a0943c953a"
+metafile = true
+
+[[files]]
+file = "mods/fabricated-exchange.pw.toml"
+hash = "e9f95c702cf66e119d05c0ffd50a90d8574d1cdb1f32ddd6d6f0c7efb93556cc"
 metafile = true
 
 [[files]]
@@ -2509,6 +2509,11 @@ metafile = true
 [[files]]
 file = "mods/river-redux.pw.toml"
 hash = "22be6987e19f0a5036a618cef93e62560d3c4339bf9a897fdb88d81d133e540a"
+metafile = true
+
+[[files]]
+file = "mods/roots-classic-fabric.pw.toml"
+hash = "912ed51e43ec3117c9253463512883cd000419affa31ff32401b794d88d8ad96"
 metafile = true
 
 [[files]]
