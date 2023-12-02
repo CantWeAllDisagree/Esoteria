@@ -1889,11 +1889,6 @@ hash = "e82d99dac3afc9f65a0a8c8bed68b4a660eb673bc108cf5d49b290ac865b0406"
 metafile = true
 
 [[files]]
-file = "mods/mebahels-antique-beasts.pw.toml"
-hash = "32d5de30ce0f01e12fedd09358825cda2139d0708cbaca4877162958fdd07573"
-metafile = true
-
-[[files]]
 file = "mods/mediaworks.pw.toml"
 hash = "b6e18787b194f77126104da2179079424ee48420f214e282d34e1a183c6f97ea"
 metafile = true
