@@ -1279,11 +1279,6 @@ hash = "5bb7b21a6cb6b24ace31ffa9f13107e40bdc4f6d28932b6f892699a0943c953a"
 metafile = true
 
 [[files]]
-file = "mods/fabricated-exchange.pw.toml"
-hash = "e9f95c702cf66e119d05c0ffd50a90d8574d1cdb1f32ddd6d6f0c7efb93556cc"
-metafile = true
-
-[[files]]
 file = "mods/fabricshieldlib.pw.toml"
 hash = "03172fc7c193dcaadece7dd864ddd969fc6af0525c2ea972f61f09b8e00976ae"
 metafile = true
@@ -1596,6 +1591,11 @@ metafile = true
 [[files]]
 file = "mods/it-takes-a-pillage-fabric.pw.toml"
 hash = "08469edc3728f89e436047f4016adb687ab14e2ad6b4f2752ad58b0a9b21ba62"
+metafile = true
+
+[[files]]
+file = "mods/item-alchemy.pw.toml"
+hash = "65ec01507992dc422a99a6bb13d6d5a43e0ec1c995568822dd25e9c41d7aa153"
 metafile = true
 
 [[files]]
