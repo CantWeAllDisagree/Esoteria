@@ -58,7 +58,7 @@ hash = "e97fdce9c30a2945067d76aa001222363d3a428de62296604738cfa4434dff8b"
 
 [[files]]
 file = "config/comforts-server.toml"
-hash = "920504460cfe62506787259362fb8829142f1898befc1b23120c9fe1b1655a4c"
+hash = "3ad507e516748406c06d3faf9df10128cb460ba26dff66389b599f767f521783"
 
 [[files]]
 file = "config/doodads.toml"
@@ -221,7 +221,7 @@ hash = "98f9934353a4b1c0d9ed8863f872428869e29738cfb2da1077d10aa06eec2f69"
 
 [[files]]
 file = "config/time-and-wind/config.json"
-hash = "e7c4b127821bea7eb39e2a4582962a5523bcfd103b629fb2f8e9c49fc5920845"
+hash = "1b99de31d15a0e14ca9955b87ca7d75a56a838479b5a14e74f2533641f04d9e9"
 
 [[files]]
 file = "config/time-and-wind/system-time-data-global.json"
@@ -885,11 +885,6 @@ hash = "4624545fb9b7d701566f0766e803835fdf4d3a0471bf34fbca9ccb72a7290f29"
 metafile = true
 
 [[files]]
-file = "mods/croparia.pw.toml"
-hash = "79c335aa7e03ebacb4850da22f0aa81cd6e244b3665a1976891b92fe785e9f8f"
-metafile = true
-
-[[files]]
 file = "mods/croptopia.pw.toml"
 hash = "3318c70374f860b9b2ab3699621a7ace4a199dd63f06d3b5c6892067ec5f269d"
 metafile = true
@@ -1189,11 +1184,6 @@ hash = "ba9d24c505acf5a4d14c7e23e3e4eccc39a4cc3f96bfe52375e08efbd4dda6a9"
 metafile = true
 
 [[files]]
-file = "mods/esoteric-origins.pw.toml"
-hash = "071fc87edb9198fbb05ae1324b17fb4f86bc5e3f9dbe1c036cde1d068c8c7936"
-metafile = true
-
-[[files]]
 file = "mods/essential-commands.pw.toml"
 hash = "d7c62098ea13919a210eefeddac3e52005c59aa2e088473c83d800bca6e0df39"
 metafile = true
@@ -1335,7 +1325,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "4aea61b0c79993b88c357dea2a3f5fdc634a49ca028d60fb8b10fd4f36580355"
+hash = "461be77e2e30211cb0aa462b7fcc0c94fd27d060c77efcc0f0f9a098c2cac21b"
 metafile = true
 
 [[files]]
@@ -2654,11 +2644,6 @@ metafile = true
 [[files]]
 file = "mods/statement.pw.toml"
 hash = "bca2f1cf90c4954220e9d533ed9bdfd1ff1ba946fadd416d06b01d19514c528f"
-metafile = true
-
-[[files]]
-file = "mods/stemaria.pw.toml"
-hash = "29db130009eeeb39e29da10eb4be591eff66792e23ba86f5654cee3dc534302c"
 metafile = true
 
 [[files]]
