@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
-hash = "dc9fe65f01e38f83a145895609147e65f9af37e1460cb536795fef871a81fd5d"
+hash = "79175430843c1c8d66a875aa6163bce12a7cc88593e6da9022e8303e464dc0d4"
 metafile = true
 
 [[files]]
@@ -450,11 +450,6 @@ hash = "ad4d2ce6ff45cd1a432cd65ab924e9d0c58810f9f31dc1e4f9e91335654ee29f"
 metafile = true
 
 [[files]]
-file = "mods/auto-config-updated-api.pw.toml"
-hash = "1ae8dcbdfa0bd670013aa6aa1d0471f628432293fb8085c403ddf0dac1c59624"
-metafile = true
-
-[[files]]
 file = "mods/autotag.pw.toml"
 hash = "c330193b5ee6cecd7190dc9c6929e0d965876ae62108d9f12f6530665c87791d"
 metafile = true
@@ -507,11 +502,6 @@ metafile = true
 [[files]]
 file = "mods/bclib.pw.toml"
 hash = "dc2788256255373ea9ea76e4e55b118fd49796d36d92bc028a388958739d6d2a"
-metafile = true
-
-[[files]]
-file = "mods/beaconoverhaul.pw.toml"
-hash = "106eda8cef592638c91c0dea3dd310de630c8029285359ed0f7e08a09e346ad8"
 metafile = true
 
 [[files]]
@@ -597,11 +587,6 @@ metafile = true
 [[files]]
 file = "mods/bewitchment.pw.toml"
 hash = "009e6df0c8b7b8a4b66482c7ab57b1a3da548c408fba321ddb1569d6cb4fae25"
-metafile = true
-
-[[files]]
-file = "mods/big-beautiful-buttons.pw.toml"
-hash = "91c72c310e3d6982d8198802f50299e87549de46a97a30dacd115f6ed45e38e6"
 metafile = true
 
 [[files]]
@@ -1041,7 +1026,7 @@ metafile = true
 
 [[files]]
 file = "mods/doggo-mod-overhauled.pw.toml"
-hash = "4d95e68c256a7a0fa014e1029e0ad1c02f174ede89ff61353ad4ffbd19bc6237"
+hash = "b6ece8c71e49de1683ad546e771cbf6d95d77333cf18fb10adf096883f6e4c9e"
 metafile = true
 
 [[files]]
@@ -1062,11 +1047,6 @@ metafile = true
 [[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "d8a51586ed3c982870bce4d9876a550ac188ebc2263e3acc368605978df608c2"
-metafile = true
-
-[[files]]
-file = "mods/dustrial-decor-fabric.pw.toml"
-hash = "5f5aadf1e89ba5691eb37395459d96cde026c197e1c22de8289d1b798aadd90a"
 metafile = true
 
 [[files]]
@@ -1329,11 +1309,6 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
-file = "mods/fish-tanks.pw.toml"
-hash = "54e492a8e289e38e29060488856f2ec5638e14886cd3b3d7c8a34a8249c06407"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
@@ -1356,11 +1331,6 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "461be77e2e30211cb0aa462b7fcc0c94fd27d060c77efcc0f0f9a098c2cac21b"
-metafile = true
-
-[[files]]
-file = "mods/frog-legs.pw.toml"
-hash = "e2c06755365e65f97a86b6c2344db7d7534a15aee241bdfb327d60e705b8db9d"
 metafile = true
 
 [[files]]
@@ -1569,11 +1539,6 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
-file = "mods/industrial-revolution.pw.toml"
-hash = "fb7a3cd21ae04e61e5166622dbad8b0f5f85510ff7d2f09f12d5264a0539065d"
-metafile = true
-
-[[files]]
 file = "mods/infinitybuttons.pw.toml"
 hash = "a38951a0b69abdb5e34d596b2728099fc335381526d507a1337dc51dfa6dc4a2"
 metafile = true
@@ -1666,11 +1631,6 @@ metafile = true
 [[files]]
 file = "mods/keyboard-wizard.pw.toml"
 hash = "19908838ccf0ca950bfd7a080efa49e5cd23374b60fe51bceaeae50dcbf892c0"
-metafile = true
-
-[[files]]
-file = "mods/knaves-needs.pw.toml"
-hash = "de970292fdc803f22c4639fe40cb67146a6db392136deb6346cf67e134a42f41"
 metafile = true
 
 [[files]]
@@ -1860,7 +1820,7 @@ metafile = true
 
 [[files]]
 file = "mods/mc-dungeons-enchanting.pw.toml"
-hash = "b0eab01a2c11387195a5860dc0daa7edfb99c09e91dab6170fe9017a2cc680c9"
+hash = "259ec609d846c8126ec8a1a4876fdca521920c95b85e3fa13d6af4cd841f7e2e"
 metafile = true
 
 [[files]]
@@ -1936,11 +1896,6 @@ metafile = true
 [[files]]
 file = "mods/minimotd.pw.toml"
 hash = "224b831a1cdce497428441731ebbfcbf4565b53f12225f21b90a7116e8b3c1b9"
-metafile = true
-
-[[files]]
-file = "mods/miskatonic-mysteries.pw.toml"
-hash = "4fb02f187f88c7042e774630afcf19aff3d799705fd3a53d71c780fd6f8ed085"
 metafile = true
 
 [[files]]
@@ -2171,11 +2126,6 @@ metafile = true
 [[files]]
 file = "mods/ore-growth.pw.toml"
 hash = "8241d08534a43e58a70476e15c95f56504ede4f0bc63ddc73298b33f6895da81"
-metafile = true
-
-[[files]]
-file = "mods/origins-assassin.pw.toml"
-hash = "497803dd6deb93a92e694a2f098f226a822295a9aeb4e187996d2ce0e671448c"
 metafile = true
 
 [[files]]
@@ -2512,11 +2462,6 @@ hash = "22be6987e19f0a5036a618cef93e62560d3c4339bf9a897fdb88d81d133e540a"
 metafile = true
 
 [[files]]
-file = "mods/roots-classic-fabric.pw.toml"
-hash = "912ed51e43ec3117c9253463512883cd000419affa31ff32401b794d88d8ad96"
-metafile = true
-
-[[files]]
 file = "mods/rottencreatures.pw.toml"
 hash = "3695e7bbeed755d9f746f114dd5329e854b2ceecf39bab90844427a083c269ce"
 metafile = true
@@ -2562,11 +2507,6 @@ hash = "f2748cc5c24ea6da2d7c69efcfef2c8d4cde0e0a38fce02cdbc43f247d5a0d34"
 metafile = true
 
 [[files]]
-file = "mods/shroom-dealers.pw.toml"
-hash = "201b51465ad0b4ceba13c655dfed417847a181f71af1a6e18a9c245f8d6a6663"
-metafile = true
-
-[[files]]
 file = "mods/sigma.pw.toml"
 hash = "2b25c0925152ef0b470df16f12484c33c3b9d5d29223ae4226dc09dbc68b3b31"
 metafile = true
@@ -2574,11 +2514,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "423b786e8b99855898f311934cf8bb3efd89254a70338228d940c4a895a0e46c"
-metafile = true
-
-[[files]]
-file = "mods/simply-swords.pw.toml"
-hash = "99a222a48e9d4fb3d0a0ba2abaf2f2637e8fbb521f48def9c43f9572856a333d"
 metafile = true
 
 [[files]]
@@ -2594,11 +2529,6 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "b8b05210624a4edae6cb92795f96293375259f79bfbc90c359944b2c5561171e"
-metafile = true
-
-[[files]]
-file = "mods/slime-origin-remastered.pw.toml"
-hash = "0516d6f417046ffd6ab19eba5a937a176fd7a57ce8ad34d87c60eeaa23788082"
 metafile = true
 
 [[files]]

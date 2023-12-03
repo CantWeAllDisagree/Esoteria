@@ -1,12 +1,12 @@
 name = "Esoteria"
 author = "CantWeAllDisagree"
-version = "0.00.0.2"
+version = "0.00.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "694143365e31068c3dba61a5635a8882e4b5bac8aff7c7e56f9c6035a79a9881"
+hash = "609afc3c996217754572351b978455e61668a6bc013cc560172bb0a07bd0ce3d"
 
 [versions]
 fabric = "0.14.25"
