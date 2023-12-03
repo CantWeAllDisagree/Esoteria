@@ -1,13 +1,13 @@
 name = "GregTechCEu Modern"
-filename = "gtceu-fabric-1.19.2-1.0.16.jar"
+filename = "gtceu-fabric-1.19.2-1.0.17-slim.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7tG215v7/versions/fAeLYsa3/gtceu-fabric-1.19.2-1.0.16.jar"
+url = "https://cdn.modrinth.com/data/7tG215v7/versions/aaV5J6tR/gtceu-fabric-1.19.2-1.0.17-slim.jar"
 hash-format = "sha1"
-hash = "ffe00edde3451f346f0962f54d100c979564d4af"
+hash = "8bebcd4b33bb9e5c7bd4218a028518ee5a13da49"
 
 [update]
 [update.modrinth]
 mod-id = "7tG215v7"
-version = "fAeLYsa3"
+version = "aaV5J6tR"
