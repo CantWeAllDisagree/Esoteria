@@ -600,6 +600,11 @@ hash = "009e6df0c8b7b8a4b66482c7ab57b1a3da548c408fba321ddb1569d6cb4fae25"
 metafile = true
 
 [[files]]
+file = "mods/big-beautiful-buttons.pw.toml"
+hash = "91c72c310e3d6982d8198802f50299e87549de46a97a30dacd115f6ed45e38e6"
+metafile = true
+
+[[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "225792c6c19bfcbe6095a94d54994e616bc20257c26ffcc141cd13e469ebb94e"
 metafile = true
@@ -1455,7 +1460,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
-hash = "31e70a0afe606db3d76c547366db6e275b12de6035584689495554480ba7ac31"
+hash = "7104416fd596afee73e885aa2912982a0d8994a93978ec061ff4cb1ebe7a4d39"
 metafile = true
 
 [[files]]
