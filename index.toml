@@ -1899,6 +1899,11 @@ hash = "224b831a1cdce497428441731ebbfcbf4565b53f12225f21b90a7116e8b3c1b9"
 metafile = true
 
 [[files]]
+file = "mods/miskatonic-mysteries.pw.toml"
+hash = "4fb02f187f88c7042e774630afcf19aff3d799705fd3a53d71c780fd6f8ed085"
+metafile = true
+
+[[files]]
 file = "mods/missions.pw.toml"
 hash = "e38563c43e08a8f4ccaac868a8f2a6f2a5fe7ba7e0713111e72da86dd68b4d36"
 metafile = true
@@ -2459,6 +2464,11 @@ metafile = true
 [[files]]
 file = "mods/river-redux.pw.toml"
 hash = "22be6987e19f0a5036a618cef93e62560d3c4339bf9a897fdb88d81d133e540a"
+metafile = true
+
+[[files]]
+file = "mods/roots-classic-fabric.pw.toml"
+hash = "912ed51e43ec3117c9253463512883cd000419affa31ff32401b794d88d8ad96"
 metafile = true
 
 [[files]]
