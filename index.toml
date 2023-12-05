@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
-hash = "79175430843c1c8d66a875aa6163bce12a7cc88593e6da9022e8303e464dc0d4"
+hash = "dc9fe65f01e38f83a145895609147e65f9af37e1460cb536795fef871a81fd5d"
 metafile = true
 
 [[files]]
@@ -741,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "edde596d1a457688a41f5cc7816e20e62fee544382ac8ea623cd3b424fc2d4a9"
+hash = "531a3c1ad79dccd474dceac6aacc8de3d854d5b7c26c7a459bca5656435405dd"
 metafile = true
 
 [[files]]
@@ -777,6 +777,11 @@ metafile = true
 [[files]]
 file = "mods/connectible_chains.pw.toml"
 hash = "3bb5d79ae78bcfa2fcb08f3852c4c1ac1893569ac75ccc2e9131d9b17dc61f5c"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "93e56787ea6b7ff794f84d4238fa194705dc65b1f73d204bddb3e2948d24c366"
 metafile = true
 
 [[files]]
@@ -1021,7 +1026,7 @@ metafile = true
 
 [[files]]
 file = "mods/doggo-mod-overhauled.pw.toml"
-hash = "b6ece8c71e49de1683ad546e771cbf6d95d77333cf18fb10adf096883f6e4c9e"
+hash = "4d95e68c256a7a0fa014e1029e0ad1c02f174ede89ff61353ad4ffbd19bc6237"
 metafile = true
 
 [[files]]
@@ -1260,7 +1265,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricshieldlib.pw.toml"
-hash = "03172fc7c193dcaadece7dd864ddd969fc6af0525c2ea972f61f09b8e00976ae"
+hash = "aa933f6590b4929620973ee68bf2c8fc08cff6912f437eb26d91a3fa615e1ee8"
 metafile = true
 
 [[files]]
@@ -1325,7 +1330,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "461be77e2e30211cb0aa462b7fcc0c94fd27d060c77efcc0f0f9a098c2cac21b"
+hash = "55e1f8fcc569d324d0f444664c785256cf28625d10ffed43ffe0db4bc0d58e25"
 metafile = true
 
 [[files]]
@@ -1600,7 +1605,7 @@ metafile = true
 
 [[files]]
 file = "mods/jump-over-fences.pw.toml"
-hash = "f2cd2fa726166f7999637329a561a9652f8818cda07c368edf57096898fb1c40"
+hash = "1ef3c9fc8056213d40a46ded30093b21bec5ff9449308cd6fe784250f767aa64"
 metafile = true
 
 [[files]]
@@ -1815,7 +1820,7 @@ metafile = true
 
 [[files]]
 file = "mods/mc-dungeons-enchanting.pw.toml"
-hash = "259ec609d846c8126ec8a1a4876fdca521920c95b85e3fa13d6af4cd841f7e2e"
+hash = "b0eab01a2c11387195a5860dc0daa7edfb99c09e91dab6170fe9017a2cc680c9"
 metafile = true
 
 [[files]]
@@ -1935,7 +1940,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "4dbb15fe63b26bb00d1853ea637caaaccabb373e4658d55ad22e584584db6beb"
+hash = "ef6a2fce03bfeeb2f7186c9ef1277900956756e1ad09714893241c21d5205aa7"
 metafile = true
 
 [[files]]
@@ -2593,7 +2598,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "0a0da010c5679207a916031efbf4793265bfdd8e14035355f8e208595d494195"
+hash = "e5f39f8601d087d84b4507a8e6f15e4d0077cecdfffcd2cae62605a8eee5683a"
 metafile = true
 
 [[files]]
@@ -2688,7 +2693,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "7801a82f08420b8feba86caf69dd770fbefb4d29fd218b78543c3d196468333f"
+hash = "2c2118f16d354ae2959605ff89b50f53b4387f2ff1255b6d4609506f741a6dca"
 metafile = true
 
 [[files]]
@@ -2803,11 +2808,6 @@ metafile = true
 [[files]]
 file = "mods/time-wind.pw.toml"
 hash = "9047965bc4ec80b16dee8bf33c23775c49fb5f8692ebfabece0b6533be0006ca"
-metafile = true
-
-[[files]]
-file = "mods/timeoutout.pw.toml"
-hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
 metafile = true
 
 [[files]]
@@ -3042,7 +3042,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "38044c12e15cddd4615910f0ea59b17a95a6791f6c7504189467ff90b0cd3b23"
+hash = "8d7779f0949f313a104884ad186ea5f21e57d8e089765445eb895463e6f12bbc"
 metafile = true
 
 [[files]]
