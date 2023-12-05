@@ -780,11 +780,6 @@ hash = "3bb5d79ae78bcfa2fcb08f3852c4c1ac1893569ac75ccc2e9131d9b17dc61f5c"
 metafile = true
 
 [[files]]
-file = "mods/connectivity.pw.toml"
-hash = "93e56787ea6b7ff794f84d4238fa194705dc65b1f73d204bddb3e2948d24c366"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
@@ -1899,6 +1894,11 @@ hash = "224b831a1cdce497428441731ebbfcbf4565b53f12225f21b90a7116e8b3c1b9"
 metafile = true
 
 [[files]]
+file = "mods/miskatonic-mysteries.pw.toml"
+hash = "4fb02f187f88c7042e774630afcf19aff3d799705fd3a53d71c780fd6f8ed085"
+metafile = true
+
+[[files]]
 file = "mods/missions.pw.toml"
 hash = "e38563c43e08a8f4ccaac868a8f2a6f2a5fe7ba7e0713111e72da86dd68b4d36"
 metafile = true
@@ -2803,6 +2803,11 @@ metafile = true
 [[files]]
 file = "mods/time-wind.pw.toml"
 hash = "9047965bc4ec80b16dee8bf33c23775c49fb5f8692ebfabece0b6533be0006ca"
+metafile = true
+
+[[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
 metafile = true
 
 [[files]]
