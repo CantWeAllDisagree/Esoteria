@@ -2467,11 +2467,6 @@ hash = "22be6987e19f0a5036a618cef93e62560d3c4339bf9a897fdb88d81d133e540a"
 metafile = true
 
 [[files]]
-file = "mods/roots-classic-fabric.pw.toml"
-hash = "912ed51e43ec3117c9253463512883cd000419affa31ff32401b794d88d8ad96"
-metafile = true
-
-[[files]]
 file = "mods/rottencreatures.pw.toml"
 hash = "3695e7bbeed755d9f746f114dd5329e854b2ceecf39bab90844427a083c269ce"
 metafile = true
