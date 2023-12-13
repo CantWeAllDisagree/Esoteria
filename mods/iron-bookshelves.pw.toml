@@ -1,13 +1,13 @@
 name = "Iron Bookshelves"
-filename = "ironbookshelves-1.19.2-1.2.3-fabric.jar"
+filename = "ironbookshelves-1.19.2-1.2.5-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QmCOBeSP/versions/2XXWPClO/ironbookshelves-1.19.2-1.2.3-fabric.jar"
+url = "https://cdn.modrinth.com/data/QmCOBeSP/versions/wLzZe2V1/ironbookshelves-1.19.2-1.2.5-fabric.jar"
 hash-format = "sha1"
-hash = "51aec7b05de1a3d2348015f2c789b0a506aac566"
+hash = "fb60a6029e7144ba8de751f5ef4e79c42cda5d73"
 
 [update]
 [update.modrinth]
 mod-id = "QmCOBeSP"
-version = "2XXWPClO"
+version = "wLzZe2V1"
