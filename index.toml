@@ -759,6 +759,11 @@ hash = "827a6330cf6e3222997f2157e4f1cbdf81db6238c364055cccb5d9b2873bd8de"
 metafile = true
 
 [[files]]
+file = "mods/neepmeat.pw.toml"
+hash = "d3f0a55ca4ee3c49c3c2fbaf4edd52936a4dfb4070d49e6ee8da154431225dad"
+metafile = true
+
+[[files]]
 file = "mods/nerb.pw.toml"
 hash = "b13ff58ccfb7902597e9cf8b9b9674f1ff6080b8eb6cd47f53334e1f0fccb38d"
 metafile = true
@@ -776,6 +781,11 @@ metafile = true
 [[files]]
 file = "mods/numismaticclaim.pw.toml"
 hash = "46fbdb2a1964639eae7c36a122f391ce567e67e21008749d0c6176c7ae268df4"
+metafile = true
+
+[[files]]
+file = "mods/nyctophobia.pw.toml"
+hash = "1e8c8efe9534de8c0dbaa7989c5db8cd5a40ba16f5554f5f37daf99df6619dd1"
 metafile = true
 
 [[files]]
@@ -826,6 +836,11 @@ metafile = true
 [[files]]
 file = "mods/originstweaks.pw.toml"
 hash = "e2fa4fc9dbd40acdfdff8a78a26e052752c3c40ea9fb633b4fea142e72bf805a"
+metafile = true
+
+[[files]]
+file = "mods/orpheus.pw.toml"
+hash = "93cc7d1acd76c7c4ab716a6ffca768da3c63d2057496e31015e87a359eeded8a"
 metafile = true
 
 [[files]]
@@ -957,6 +972,16 @@ hash = "8f916bbed3c5a808a794b5c5c99e9d4424b3856cc5b12d2edd9a9a12a1eabd7b"
 metafile = true
 
 [[files]]
+file = "mods/the-graveyard-fabric.pw.toml"
+hash = "5c8d7564cb0407d6162fd7d982e85e510713fdde4949e55d9d716e29c9293975"
+metafile = true
+
+[[files]]
+file = "mods/the-lost-castle.pw.toml"
+hash = "26661112ce3347245687056f5c8289670239ce997788f596c388a6123a0af3ae"
+metafile = true
+
+[[files]]
 file = "mods/this-is-what-u-need.pw.toml"
 hash = "12799fa61055b6ab4a09856dcb8437b44929f7d5791c73bbed24a15660cd50d5"
 metafile = true
@@ -1054,6 +1079,16 @@ metafile = true
 [[files]]
 file = "mods/whats-that-slot.pw.toml"
 hash = "2d341ee5e3436ded38ca36262832bf44f4fb4df4ecb4ca9c3b3e21f24521be40"
+metafile = true
+
+[[files]]
+file = "mods/whisperwoods.pw.toml"
+hash = "8b733738c3b63eef68df0dc08a0b0517dc7d14acf45d6a00c8cd1faedfbccd05"
+metafile = true
+
+[[files]]
+file = "mods/wiredredstone.pw.toml"
+hash = "da9beccf3758ed9913e808004f8ff41019510edb8edffd8ba72255781e13ce63"
 metafile = true
 
 [[files]]
