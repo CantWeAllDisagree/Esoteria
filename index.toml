@@ -560,6 +560,11 @@ hash = "ea27435e1861ade52a344e2af4304fba169e03b9be4f4b721ec0e582da4f414c"
 metafile = true
 
 [[files]]
+file = "mods/do-api.pw.toml"
+hash = "423bb897ea956eb46108cd2d366036c75c1c93760b832b79731e0d3dca7b8306"
+metafile = true
+
+[[files]]
 file = "mods/earlystage-1.0.10-dirty.jar"
 hash = "6d0a909a61cc3c26615f171fab6fd520a56168b218d7e094c1b5077ff91168f0"
 
@@ -609,13 +614,28 @@ hash = "5bb7b21a6cb6b24ace31ffa9f13107e40bdc4f6d28932b6f892699a0943c953a"
 metafile = true
 
 [[files]]
+file = "mods/fabricshieldlib.pw.toml"
+hash = "aa933f6590b4929620973ee68bf2c8fc08cff6912f437eb26d91a3fa615e1ee8"
+metafile = true
+
+[[files]]
 file = "mods/fair-wage.pw.toml"
 hash = "4099ad89926d67f972cab40312beab87a5aeacdcbecd011ade4c11af14fab033"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "423581d9738b23798456b7ba021698355ef8f03cef93d8c1266102a227d9a200"
+metafile = true
+
+[[files]]
 file = "mods/farming-for-blockheads.pw.toml"
 hash = "8992b4b1815fb69baf1cfd735b1049c5277c069df81e6671e6213829307b5fad"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
@@ -644,6 +664,46 @@ hash = "a81c6e60f18faf727ed743029c8a4d093c6c96f0c450be7bf3535985ee6f4288"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/kambrik.pw.toml"
+hash = "69db7a4aa6bf2136864de6a5109c3549d589f11005e9663c6b4d2b6947e6d7c3"
+metafile = true
+
+[[files]]
+file = "mods/keyboard-wizard.pw.toml"
+hash = "19908838ccf0ca950bfd7a080efa49e5cd23374b60fe51bceaeae50dcbf892c0"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery.pw.toml"
+hash = "5eb4329e5b0a350bf16861571c4c0ecd55ae51fe62e6e23b29a168bc589fb451"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-beachparty.pw.toml"
+hash = "5d6a2035537dd50763dc03e8670c29ae9c987d3de5dcec9d7722bcb1c4bfaa19"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight.pw.toml"
+hash = "ea3867072adad451d4b65f87723d9daafed78dde43ea51a02a3edc7f72089261"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-cheese.pw.toml"
+hash = "89669169eb37d0efac39c13d0c41761733e4668971ef97f6d2e6611df423eed8"
+metafile = true
+
+[[files]]
 file = "mods/libz.pw.toml"
 hash = "906dc77dd376ff5e312ba46011babdd10a0852e58956357d700a9310ba087ac0"
 metafile = true
@@ -654,6 +714,11 @@ hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
 metafile = true
 
 [[files]]
+file = "mods/mod-loading-screen.pw.toml"
+hash = "62b1d0123bd16f728ba8808b2f4c7d4d647acebeb4a81d28c3719809af5d03eb"
+metafile = true
+
+[[files]]
 file = "mods/modern-dynamics.pw.toml"
 hash = "ef817d9ec68600d4deae639014770e9d6e165bbc91eeef56e13adc3075e3aa6c"
 metafile = true
@@ -661,6 +726,16 @@ metafile = true
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "68d0545bf74a4eb2a96a79b6f2aec7448d8e33c062be328dfddc76909b8b40b6"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
+metafile = true
+
+[[files]]
+file = "mods/monsters-in-the-closet.pw.toml"
+hash = "63914b645092557cf4824cf3be35e71f5cf8b9345a1c45de27d5da13e97b48f4"
 metafile = true
 
 [[files]]
@@ -803,6 +878,21 @@ hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
 
 [[files]]
+file = "mods/skylib.pw.toml"
+hash = "6803ee2e6d7f6d15d6a9d7198fb37c57af5294e94dba16df1aec8db6f8a7ed1d"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
 file = "mods/sprint-fix.pw.toml"
 hash = "c621ad4d58645360438ebab0085d71957247ffa9eec8fcec2f15df0b8e07dc04"
 metafile = true
@@ -887,8 +977,73 @@ hash = "4a63eed3f882491e5a782b661f8895177fa526049559df49669e7a093e9cb24b"
 metafile = true
 
 [[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "c71af8cb740fbf42b489ab24ee01ea0d09c3329cb9a62108b2b9dd85e721b3c8"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "de9d12080a08f17c328e1bc85271e40198a2310343e9a4573e831c04015d68f1"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
+file = "mods/true-darkness.pw.toml"
+hash = "39ff1eeecf6953a91912875ac15bb1492ed9623f129afba3bbd84722abf94a2a"
+metafile = true
+
+[[files]]
+file = "mods/tumbleweed.pw.toml"
+hash = "5f9d533a673b1904ab66b12195d5ca4351aaeecd62b514cfe736c366a0588c44"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "71b666322e9d5576b92da3ae8c22c5e7d62c9715c0e874dee94dfd2e8a61c9af"
+metafile = true
+
+[[files]]
+file = "mods/vanity.pw.toml"
+hash = "5e59c51a0e5e779760f90c0a0f4bd631c1158b05acb72984747b27e0e119a244"
+metafile = true
+
+[[files]]
+file = "mods/variant-bookshelves-fabric.pw.toml"
+hash = "a6899e44db3d96f46e6d8ff3709eec92f7fa6debb21e865b6b199c81ef0b34a7"
+metafile = true
+
+[[files]]
+file = "mods/variant-composters-fabric.pw.toml"
+hash = "77128da8f6f510fb3413557cf60152567f077741fbde647804a69c3efdb9af0e"
+metafile = true
+
+[[files]]
+file = "mods/variant-crafting-tables-fabric.pw.toml"
+hash = "606c16495cb0f5b931f35df3552eb30f910bad0e97913d04b84bcc112679c50f"
+metafile = true
+
+[[files]]
+file = "mods/variant-tiered-shields-fabric.pw.toml"
+hash = "69d9453e12c0ac20de801c35daa12317c6f68e8023bb9526c034069b4f0ffbd5"
+metafile = true
+
+[[files]]
+file = "mods/variantbarrels.pw.toml"
+hash = "be2e528a32da4c4b9732779b0f7686908a2139450812440ff2dda6200a909211"
+metafile = true
+
+[[files]]
+file = "mods/variantchests.pw.toml"
+hash = "bcea1206926fb85be80c7ac417b95e24370d17d066711dde31c7f025a6d0cb6e"
+metafile = true
+
+[[files]]
+file = "mods/vinery.pw.toml"
+hash = "36649503e524c59d80c069fe2786e1e446032c02fb5b8d4e83309c2edee2870c"
 metafile = true
 
 [[files]]
