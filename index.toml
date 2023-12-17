@@ -724,6 +724,11 @@ hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
 metafile = true
 
 [[files]]
+file = "mods/goml-reserved.pw.toml"
+hash = "33d1d93211c1d46f59b658c8873b92cd80ca5eba595b25a73f79ed71b1665fa8"
+metafile = true
+
+[[files]]
 file = "mods/gregtechceu-modern.pw.toml"
 hash = "40fafdefa72b953ebceadb9a82b041b8e69a9d1bffa8c6bb27ed6550b552a7e9"
 metafile = true
@@ -736,6 +741,31 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/item-alchemy.pw.toml"
+hash = "53a50953c81504e029ad13ff7e454237ab05de2801e7f8d04c31868090ec3bbb"
+metafile = true
+
+[[files]]
+file = "mods/item-borders.pw.toml"
+hash = "8d8af67b3682e79c504e52e1dc539c01107e9f8bc58d0da7eec54626d00669d5"
+metafile = true
+
+[[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "cdc6994dedc82cf7807f6afbdde9000cf11841c174008b2aad20f62d9b0b08c7"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "3f5a3d78357557c87f45ee3698f0178b17c85b7d5d8753013fec4b946b318926"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
 metafile = true
 
 [[files]]
@@ -754,8 +784,43 @@ hash = "19908838ccf0ca950bfd7a080efa49e5cd23374b60fe51bceaeae50dcbf892c0"
 metafile = true
 
 [[files]]
+file = "mods/labels.pw.toml"
+hash = "bc2ba9bbe9f4b0e9291e5eebe00df36343f82c14bc188167fa21946d4e7cb1df"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "507abebf9ae5282c92a1c799ed9666e23f0605190633c16e086b1c9e17ad4465"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
+metafile = true
+
+[[files]]
+file = "mods/laser-bridges-and-doors.pw.toml"
+hash = "4b37ae8fb0e1943a4c0767461765b78d4261b852a93ed13b68d437e55b1d8f7c"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "408bba556516e21cfa25674fabca2e1da87f7db700a7b88c2cdf1025414b39a1"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "e4958dc5dc67d3595710ee4b644edd1bed50eecf2fd990949487d47999e40729"
+metafile = true
+
+[[files]]
+file = "mods/lengthy-ladders.pw.toml"
+hash = "9506458e503c40c3af3e24d1f9d992867e837e272520bec28d7c79d2646538ad"
 metafile = true
 
 [[files]]
@@ -784,8 +849,113 @@ hash = "906dc77dd376ff5e312ba46011babdd10a0852e58956357d700a9310ba087ac0"
 metafile = true
 
 [[files]]
+file = "mods/lil-wings.pw.toml"
+hash = "672ce460e6c4359013b6c0dc1e5d2ff788b2ab851f845651842ff4c5e788e02f"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "2503f9a1b399d01d25cd81b22941744d676c26401d8bf307565d8d47c4b28c80"
+metafile = true
+
+[[files]]
+file = "mods/luna-slimes.pw.toml"
+hash = "a469e60b67c502d2ab6945f5c49792e8083ca465c819f1b5c689b438123d7466"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges-oh-the-biomes-youll-go.pw.toml"
+hash = "aaf7c21230fead305c4836d801947a0c7a787228bbdf596438c03abb5e37f119"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "2b8e1f537882af7a6e5d4a933e6fffd0c12531373112eb11aba0c9a846a2f6dc"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "3127ae3b7c7495d28b0733dde8f66b71c4387370a439a5aae906cb5c648de590"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "b16dd6d03444954164f412bdbbf33c23e88a28daf83fa4628027c6b3e167107a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-oh-the-biomes-youll-go.pw.toml"
+hash = "5dc5efcb77a1ec078b8c27082439490b0e9897cae65a6bdc02e89c9b3e778e86"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "7e9056e320b112ad5ec57efed819d5cd5ecb92d7ef229cba4173aebfe4e8642d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "df084a3cd6cfbdac34afff4dfce3a101c76264315ba446179887d0a9e23dc17f"
+metafile = true
+
+[[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "547da0302f9443458c79a3e91e72f686dc0631c9f2af9182e61d93b92202cc84"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
+metafile = true
+
+[[files]]
+file = "mods/mambience.pw.toml"
+hash = "655919b6f75cc94b66beb2054d8b1b1fc9a214566c85f6f2b694ddd79abfdba9"
+metafile = true
+
+[[files]]
+file = "mods/mc-dungeons-enchanting.pw.toml"
+hash = "b0eab01a2c11387195a5860dc0daa7edfb99c09e91dab6170fe9017a2cc680c9"
+metafile = true
+
+[[files]]
+file = "mods/mcda.pw.toml"
+hash = "4656d29fef66ca83a0bf4ad44bb725530aa26144fd521bb9da485a845d82216a"
+metafile = true
+
+[[files]]
+file = "mods/mcdar.pw.toml"
+hash = "8ead45ac44072aa2182d2d92530370d6ba16cb198221703e2990c487e973bff7"
+metafile = true
+
+[[files]]
+file = "mods/mcdw.pw.toml"
+hash = "b985eae61dd6390e0324b9d40958fb4814b35a73bbb7c04b87bce1b3e5b820b3"
+metafile = true
+
+[[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "9a8d9ee2f17736e6a7c9b9ec2829f64cded0130f5c5e15366f2502fa927a973a"
+metafile = true
+
+[[files]]
+file = "mods/mcsa.pw.toml"
+hash = "e82d99dac3afc9f65a0a8c8bed68b4a660eb673bc108cf5d49b290ac865b0406"
+metafile = true
+
+[[files]]
+file = "mods/mindful-darkness.pw.toml"
+hash = "f41977c88e6d08e246c919a0f959ac284c4bd7761b887b823c897741a658671e"
+metafile = true
+
+[[files]]
+file = "mods/minimotd.pw.toml"
+hash = "224b831a1cdce497428441731ebbfcbf4565b53f12225f21b90a7116e8b3c1b9"
 metafile = true
 
 [[files]]
@@ -819,8 +989,18 @@ hash = "426b01481aceca23494ba26bfcfef06e0c2e8ddfac83221570ddaca244afa799"
 metafile = true
 
 [[files]]
+file = "mods/moving-elevators.pw.toml"
+hash = "9ff99e34e68185cb1c956fc105c6be7b63165cb9e3483b8f897e416ad51f03f5"
+metafile = true
+
+[[files]]
 file = "mods/mrplagues-warper-origin.pw.toml"
 hash = "3a4825ebfa2c29272f3d06ce6182205c76326d99579796988bffcbbf4e651ef1"
+metafile = true
+
+[[files]]
+file = "mods/mystical_crops.pw.toml"
+hash = "382bd2ec0e96e321be68b6606335d32e61b5b4043172a801f411f84f8197c926"
 metafile = true
 
 [[files]]
@@ -956,6 +1136,21 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
+metafile = true
+
+[[files]]
+file = "mods/quartz-elevator.pw.toml"
+hash = "8caa7ac143e34732df295e0bd03b68841239172811da137e6429d2701f0410e4"
+metafile = true
+
+[[files]]
+file = "mods/quicksand-fabric.pw.toml"
+hash = "a78a8f8e5d247c6c6bfdbcfb1873771dde471a57dbf011dba1e595356ed55c75"
+metafile = true
+
+[[files]]
+file = "mods/radiant-gear.pw.toml"
+hash = "a7bd8273c6ba9b05aa3b9a97680a9ed0d2ab16d585a08cdf2fc74ca2e68b4557"
 metafile = true
 
 [[files]]
