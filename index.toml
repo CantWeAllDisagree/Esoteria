@@ -315,6 +315,11 @@ hash = "165e947738fff72282fb851de6e5533fd22a5ad66a64fe5cd8166c8c0d820c1e"
 metafile = true
 
 [[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "79175430843c1c8d66a875aa6163bce12a7cc88593e6da9022e8303e464dc0d4"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "04df200f372e8e79fb88dd1f38e0bca23805303550192669cac5db95448fbea1"
 metafile = true
@@ -387,6 +392,31 @@ metafile = true
 [[files]]
 file = "mods/bclib.pw.toml"
 hash = "dc2788256255373ea9ea76e4e55b118fd49796d36d92bc028a388958739d6d2a"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "e6fe5617744412affd21696a1ccbea32932aa6f3f9c080ad6b1dd40f9cbd36c2"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "ed2e23b38b2e862d187b8303903724995bc3c61ce54a72733f3c3792932c2b86"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "4dcf5c66d30f78d3d84d2596149b457f7ab2021591e98f9d34b3636e8c961d60"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "edde596d1a457688a41f5cc7816e20e62fee544382ac8ea623cd3b424fc2d4a9"
 metafile = true
 
 [[files]]
@@ -489,8 +519,23 @@ hash = "e999f71e855c48653a24aa71d9caf47d311aa838ef1734fc2865844543f6c3a3"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
+metafile = true
+
+[[files]]
 file = "mods/gregtechceu-modern.pw.toml"
 hash = "7104416fd596afee73e885aa2912982a0d8994a93978ec061ff4cb1ebe7a4d39"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "a81c6e60f18faf727ed743029c8a4d093c6c96f0c450be7bf3535985ee6f4288"
+metafile = true
+
+[[files]]
+file = "mods/libz.pw.toml"
+hash = "906dc77dd376ff5e312ba46011babdd10a0852e58956357d700a9310ba087ac0"
 metafile = true
 
 [[files]]
@@ -604,6 +649,16 @@ hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "123db6aa2233539bb8f8e24781cd8bd64dc095c5f8e83a3683ac13742485eb76"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "ceafb4a6175ac7c8dc90e4b0903450811fe26fc9cc23d8adcdd8cd7ce0cad9eb"
+metafile = true
+
+[[files]]
 file = "mods/reborncore.pw.toml"
 hash = "e4badf81eabfe1f6cd95e36bc8e3d4a63281f7c97406be76437c2ef49e189f99"
 metafile = true
@@ -615,6 +670,16 @@ hash = "a61d88ad37ab04d819a9e74684e1e8407a0ae4aeffa9921e03e573e81a3622d1"
 [[files]]
 file = "mods/refinedstorage2.pw.toml"
 hash = "ef050bd227ed297d03196c3c2d2c2c18a6e59a9e643c15fd0e553a13689f617b"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "625430f4374524d197165fa6d41afad3dc65a60b16ab87298cba3d47581a5485"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
 
 [[files]]
@@ -645,6 +710,16 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "d2accfdeb772987301d7517f93e081a276e5ae7610caf1f213a2012204699358"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "8ca0446a0b3082fd087e698317c616149dd85c245b51739968af43eb819604cc"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "7801a82f08420b8feba86caf69dd770fbefb4d29fd218b78543c3d196468333f"
 metafile = true
 
 [[files]]
