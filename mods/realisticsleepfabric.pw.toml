@@ -1,13 +1,13 @@
 name = "Realistic Sleep (Fabric/Quilt)"
-filename = "realisticsleep-1.10.1+mc1.19-1.19.2.jar"
+filename = "realisticsleep-1.9.0+mc1.19.x.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e587373d85b5b8783e6b7504feeae784f64d70d3"
+hash = "8d94ec2ea68d6d9baf725720a5b39c9f8f16a080"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4942636
+file-id = 4800370
 project-id = 616330

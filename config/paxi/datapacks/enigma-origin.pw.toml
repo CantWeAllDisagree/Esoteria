@@ -1,13 +1,13 @@
 name = "Origins: Enigma"
-filename = "enigma-origin-2.1.0.jar"
+filename = "Enigma Origin (2.1.0).zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DFEE3a5p/versions/CrHWl2m3/enigma-origin-2.1.0.jar"
+url = "https://cdn.modrinth.com/data/DFEE3a5p/versions/yNBFPpTd/Enigma%20Origin%20%282.1.0%29.zip"
 hash-format = "sha1"
-hash = "552307bc7142bedc933fb0a80bbce529e8b0f8cd"
+hash = "e87f1c2814e2c4c76b2a420ab3c1dab05f6b9197"
 
 [update]
 [update.modrinth]
 mod-id = "DFEE3a5p"
-version = "CrHWl2m3"
+version = "yNBFPpTd"

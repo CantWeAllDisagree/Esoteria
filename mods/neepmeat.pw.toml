@@ -1,13 +1,13 @@
 name = "NEEPMeat"
-filename = "neepmeat-0.2.3-alpha-1.19.2.jar"
+filename = "neepmeat-0.2.1-alpha-1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Hagcl1FT/versions/YfoyWoom/neepmeat-0.2.3-alpha-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/Hagcl1FT/versions/OlWrxe7t/neepmeat-0.2.1-alpha-1.19.2.jar"
 hash-format = "sha1"
-hash = "806f0b648bf536f5cf5991e6d44ca07829a4e412"
+hash = "e28d89cecbdce1322f192d4d35a46dddf44940fe"
 
 [update]
 [update.modrinth]
 mod-id = "Hagcl1FT"
-version = "YfoyWoom"
+version = "OlWrxe7t"
