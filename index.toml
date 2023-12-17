@@ -714,6 +714,11 @@ hash = "028e9b02daad18ae7def0720efd949be4d84d6da037a95cb4c4a3155c385f700"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-core.pw.toml"
+hash = "14fe1ca5773d7e3825557ed8104f19a053e66e8b2426f21cd5f1f745163238d4"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
 metafile = true
@@ -731,6 +736,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "d1df8e86811120c594a88895d3366d000736a6c1fad7124a72c8f05925775095"
 metafile = true
 
 [[files]]
@@ -801,6 +811,11 @@ metafile = true
 [[files]]
 file = "mods/monsters-in-the-closet.pw.toml"
 hash = "63914b645092557cf4824cf3be35e71f5cf8b9345a1c45de27d5da13e97b48f4"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "426b01481aceca23494ba26bfcfef06e0c2e8ddfac83221570ddaca244afa799"
 metafile = true
 
 [[files]]
@@ -934,6 +949,16 @@ hash = "3b4163eb6fbc520874e18207fd44dea48d7de534d3d6111b6905dbdd85b3db49"
 metafile = true
 
 [[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "8134c08af1ac4d5c8aef4b134d205fb12b202c2a6ad323cc93b7bb8ada19de21"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
+metafile = true
+
+[[files]]
 file = "mods/raised.pw.toml"
 hash = "ceafb4a6175ac7c8dc90e4b0903450811fe26fc9cc23d8adcdd8cd7ce0cad9eb"
 metafile = true
@@ -1054,6 +1079,11 @@ metafile = true
 [[files]]
 file = "mods/tempad.pw.toml"
 hash = "8f916bbed3c5a808a794b5c5c99e9d4424b3856cc5b12d2edd9a9a12a1eabd7b"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "cefcb862b31d0f186874b21dd31fba61e44c932f7b26b0c4511faac6fc0a3457"
 metafile = true
 
 [[files]]
@@ -1249,6 +1279,11 @@ metafile = true
 [[files]]
 file = "mods/xp-obelisk.pw.toml"
 hash = "b975947976d69dc9fde6ca4ff55b557da35e2ac6df34e2eba1198b0209277edc"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
 metafile = true
 
 [[files]]
