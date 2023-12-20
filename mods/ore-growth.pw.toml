@@ -1,13 +1,13 @@
 name = "Ore Growth"
-filename = "oregrowth-1.0.10-fabric-mc1.19.2.jar"
+filename = "oregrowth-1.0.11-fabric-mc1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/psKAO98W/versions/arO33ldr/oregrowth-1.0.10-fabric-mc1.19.2.jar"
+url = "https://cdn.modrinth.com/data/psKAO98W/versions/CcNea4G7/oregrowth-1.0.11-fabric-mc1.19.2.jar"
 hash-format = "sha1"
-hash = "e45c6515a7405df75b29109e6bdc09bbc67b302b"
+hash = "eed077d16573baa335b960d4566ebb38bcde2122"
 
 [update]
 [update.modrinth]
 mod-id = "psKAO98W"
-version = "arO33ldr"
+version = "CcNea4G7"
