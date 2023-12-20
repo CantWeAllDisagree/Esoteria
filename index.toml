@@ -540,6 +540,11 @@ hash = "4d4313376f09ff43fc11e9bb817d2106d5b6bb20730085deee7dd76618f0c17f"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "bd28a7c914104487e9f8887c43cf0adb8234cbe83742c96b3cce7eebe99a46cf"
+metafile = true
+
+[[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "ca55cf03f10f766e8c4680ab1b41e7b7645e7df87524580d3ad55a7a47fd7b0a"
 metafile = true
@@ -597,6 +602,11 @@ metafile = true
 [[files]]
 file = "mods/cooking-for-blockheads-fabric.pw.toml"
 hash = "08c1e570636f2da6779c188b487da703846ef6612ad4a979cae42ea2189c0d1d"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "cdfbb6b7cd0f3205e6ba9f77f9a16aff7ebb4c4afc275264e86edd8cef2a9423"
 metafile = true
 
 [[files]]
@@ -1279,6 +1289,11 @@ hash = "c1a7bfc0cfb46224708f22bda2af3727e5c9290fa3c36454343ae7e8056e8109"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "bc5420f20c163dffd4c32178bfc8004da8da6e48561a3960c27537c826d85a17"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "4a362e60bced90553a9eee9717e1a2b7cc3537b1c16e6ca9f423562062a46b68"
 metafile = true
@@ -1375,6 +1390,16 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
+metafile = true
+
+[[files]]
+file = "mods/respawn-obelisks.pw.toml"
+hash = "ab29dd3ee3c2e4f97c90654a8fcb36531183ead38aea75bdea18dd0179c775bb"
+metafile = true
+
+[[files]]
+file = "mods/revelationary.pw.toml"
+hash = "9b0995d469116c38c30ea1b5141949652cb37671f4d671edcc9e22548fd2eb20"
 metafile = true
 
 [[files]]
@@ -1559,6 +1584,11 @@ metafile = true
 [[files]]
 file = "mods/time-wind.pw.toml"
 hash = "9047965bc4ec80b16dee8bf33c23775c49fb5f8692ebfabece0b6533be0006ca"
+metafile = true
+
+[[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "8bf3894aa1f23eb474d4c4642ee2ced7b6ccb79d34189ffb8d5ddc031316e546"
 metafile = true
 
 [[files]]
