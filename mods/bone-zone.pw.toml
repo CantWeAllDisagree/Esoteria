@@ -1,13 +1,13 @@
 name = "Bone Zone"
-filename = "BoneZone-Fabric-1.19.2-1.0.3.jar"
+filename = "BoneZone-Fabric-1.19.2-1.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f972af936945d55560cc8f956cfae9c05b40955b"
+hash = "aa01cab378ce6cb5e81d3c015bf50c5dc7f4f44d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4057706
+file-id = 5014655
 project-id = 690176
